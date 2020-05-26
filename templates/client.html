@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <title>초성게임</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/client.css') }}" type="text/css"/>
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- 공식 홈페이지 내용 적용 -->
+    <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/1.7.3/socket.io.min.js"></script> -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/2.2.0/socket.io.js" 
+          integrity="sha256-yr4fRk/GU1ehYJPAs8P4JlTgu0Hdsp4ZKrx8bDEDC3I=" 
+          crossorigin="anonymous"></script>
+
+</head>
+<body>
+  <div class="randomdiv">
+    <h1 id="randomword">word</h1>
+  </div>
+  
+  <h3 style='color: #ccc;font-size: 30px;'>No message yet..</h3>
+  <div class="message_holder"></div>
+
+  <form action="" method="POST">
+    <input type="text" class="username" placeholder="User Name"/>
+    <input type="text" class="message" placeholder="Messages"/>
+    <input type="submit"/>
+  </form>
+  <h1>{{count}}</h1>
+
+  <script type="text/javascript" src="{{ url_for('static', filename='js/client.js') }}"></script>
+</body>
+</html>

@@ -1,0 +1,525 @@
+[Wed May 20 00:38:41.528109 2020] [wsgi:error] [pid 326050] received my event: {'data': 'User Connected'}
+[Wed May 20 00:39:12.860657 2020] [wsgi:error] [pid 326050] received my event: {'user_name': 'asdf', 'message': '\xeb\x82\x98\xeb\xac\xb4'}
+[Wed May 20 00:39:21.740589 2020] [wsgi:error] [pid 326050] received my event: {'user_name': 'asdf', 'message': '\xed\x95\x98\xec\x9d\xb4\xed\x96\x90'}
+[Wed May 20 00:40:13.362657 2020] [wsgi:error] [pid 326050] received my event: {'data': 'User Connected'}
+[Wed May 20 02:47:12.540231 2020] [wsgi:error] [pid 326050] received my event: {'user_name': 'asdf', 'message': '\xed\x95\x98\xed\x95\x98'}
+[Wed May 20 02:49:11.484185 2020] [wsgi:error] [pid 326172] [client 192.168.35.245:53206] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.35.245/game
+[Wed May 20 02:49:12.327773 2020] [wsgi:error] [pid 330507] received my event: {'data': 'User Connected'}
+[Wed May 20 02:49:12.982126 2020] [wsgi:error] [pid 330507] received my event: {'data': 'User Connected'}
+[Wed May 20 02:49:41.508059 2020] [wsgi:error] [pid 330512] (2)No such file or directory: [client 192.168.35.245:53402] mod_wsgi (pid=330512): Unable to connect to WSGI daemon process 'wordgameteam4' on '/var/run/apache2/wsgi.313848.24.1.sock' as user with uid=33., referer: http://192.168.35.245/
+[Wed May 20 02:49:42.928247 2020] [wsgi:error] [pid 330510] [client 192.168.35.245:53368] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.35.245/game
+[Wed May 20 02:49:47.813725 2020] [wsgi:error] [pid 330560] received my event: {'data': 'User Connected'}
+[Wed May 20 02:50:42.123727 2020] [wsgi:error] [pid 330564] (2)No such file or directory: [client 192.168.35.245:53478] mod_wsgi (pid=330564): Unable to connect to WSGI daemon process 'wordgameteam4' on '/var/run/apache2/wsgi.313848.25.1.sock' as user with uid=33., referer: http://192.168.35.245/
+[Wed May 20 02:50:42.748730 2020] [wsgi:error] [pid 330565] [client 192.168.35.245:53422] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.35.245/game
+[Wed May 20 02:52:41.229649 2020] [wsgi:error] [pid 330615] [client 192.168.35.245:53492] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.35.245/game
+[Wed May 20 02:56:39.355867 2020] [wsgi:error] [pid 330779] [client 192.168.35.245:53694] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.35.245/game
+[Wed May 20 02:58:11.026896 2020] [wsgi:error] [pid 330944] [client 192.168.35.245:54172] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.35.245/game
+[Wed May 20 02:58:12.928709 2020] [wsgi:error] [pid 331023] received my event: {'data': 'User Connected'}
+[Wed May 20 03:02:48.308518 2020] [wsgi:error] [pid 331025] [client 192.168.35.245:54246] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.35.245/game
+[Wed May 20 03:02:48.933269 2020] [wsgi:error] [pid 331276] received my event: {'data': 'User Connected'}
+[Wed May 20 03:03:53.160023 2020] [wsgi:error] [pid 331279] [client 192.168.35.245:54486] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.35.245/game
+[Wed May 20 03:03:53.915383 2020] [wsgi:error] [pid 331329] received my event: {'data': 'User Connected'}
+[Wed May 20 03:05:05.657796 2020] [wsgi:error] [pid 331331] [client 192.168.35.245:54512] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.35.245/game
+[Wed May 20 03:05:06.252644 2020] [wsgi:error] [pid 331390] received my event: {'data': 'User Connected'}
+[Wed May 20 03:05:06.416944 2020] [wsgi:error] [pid 331390] received my event: {'data': 'User Connected'}
+[Wed May 20 03:07:50.779245 2020] [wsgi:error] [pid 331390] received my event: {'data': 'User Connected'}
+[Wed May 20 03:07:59.984057 2020] [wsgi:error] [pid 331392] [client 192.168.35.245:54584] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.35.245/game
+[Wed May 20 03:08:00.569808 2020] [wsgi:error] [pid 331466] received my event: {'data': 'User Connected'}
+[Wed May 20 03:08:00.735380 2020] [wsgi:error] [pid 331466] received my event: {'data': 'User Connected'}
+[Wed May 20 03:13:26.164008 2020] [wsgi:error] [pid 331467] [client 192.168.35.245:54588] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.35.245/game
+[Wed May 20 03:13:27.213953 2020] [wsgi:error] [pid 331651] received my event: {'data': 'User Connected'}
+[Wed May 20 03:14:37.538765 2020] [wsgi:error] [pid 331652] [client 192.168.35.245:54694] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.35.245/game
+[Wed May 20 03:14:38.165232 2020] [wsgi:error] [pid 331712] received my event: {'data': 'User Connected'}
+[Wed May 20 03:14:38.382134 2020] [wsgi:error] [pid 331712] received my event: {'data': 'User Connected'}
+[Wed May 20 03:17:55.985950 2020] [wsgi:error] [pid 331714] [client 192.168.35.245:54710] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.35.245/game
+[Wed May 20 03:17:57.464062 2020] [wsgi:error] [pid 331899] received my event: {'data': 'User Connected'}
+[Wed May 20 03:18:36.771918 2020] [wsgi:error] [pid 331904] [client 192.168.35.245:54778] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.35.245/game
+[Wed May 20 03:18:38.155209 2020] [wsgi:error] [pid 331944] received my event: {'data': 'User Connected'}
+[Wed May 20 03:19:11.586968 2020] [wsgi:error] [pid 331949] [client 192.168.35.245:54796] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.35.245/game
+[Wed May 20 03:19:12.886300 2020] [wsgi:error] [pid 331997] received my event: {'data': 'User Connected'}
+[Wed May 20 03:20:04.695824 2020] [wsgi:error] [pid 331998] [client 192.168.35.245:54810] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.35.245/game
+[Wed May 20 03:20:05.301801 2020] [wsgi:error] [pid 332052] received my event: {'data': 'User Connected'}
+[Wed May 20 03:20:06.215689 2020] [wsgi:error] [pid 332052] received my event: {'data': 'User Connected'}
+[Wed May 20 03:20:09.916456 2020] [wsgi:error] [pid 332052] received my event: {'data': 'User Connected'}
+[Wed May 20 03:20:14.062464 2020] [wsgi:error] [pid 332052] received my event: {'data': 'User Connected'}
+[Wed May 20 03:22:11.702187 2020] [wsgi:error] [pid 332055] [client 192.168.35.245:54836] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.35.245/game
+[Wed May 20 03:22:13.171992 2020] [wsgi:error] [pid 332188] received my event: {'data': 'User Connected'}
+[Wed May 20 03:22:17.686400 2020] [wsgi:error] [pid 332188] received my event: {'user_name': 'adf', 'message': '\xec\x95\x88\xeb\x85\x95'}
+[Wed May 20 03:22:44.269274 2020] [wsgi:error] [pid 332188] received my event: {'data': 'User Connected'}
+[Wed May 20 03:26:41.108380 2020] [wsgi:error] [pid 332188] received my event: {'user_name': 'adf', 'message': '\xed\x95\x98\xed\x95\x98'}
+[Wed May 20 03:26:45.000183 2020] [wsgi:error] [pid 332188] received my event: {'user_name': 'adf', 'message': '\xed\x98\xb8\xec\x95\x84\xed\x9e\x88\xec\x95\x84'}
+[Wed May 20 03:26:48.339030 2020] [wsgi:error] [pid 332188] received my event: {'data': 'User Connected'}
+[Wed May 20 17:41:46.850401 2020] [wsgi:error] [pid 332188] received my event: {'data': 'User Connected'}
+[Wed May 20 17:51:33.201540 2020] [wsgi:error] [pid 332188] received my event: {'data': 'User Connected'}
+[Wed May 20 19:35:30.425345 2020] [wsgi:error] [pid 332188] received my event: {'data': 'User Connected'}
+[Wed May 20 19:40:40.263957 2020] [wsgi:error] [pid 332188] received my event: {'data': 'User Connected'}
+[Wed May 20 19:47:40.189029 2020] [wsgi:error] [pid 332188] received my event: {'data': 'User Connected'}
+[Wed May 20 21:43:44.350600 2020] [wsgi:error] [pid 332188] received my event: {'data': 'User Connected'}
+[Wed May 20 23:15:44.795271 2020] [wsgi:error] [pid 332188] received my event: {'data': 'User Connected'}
+[Wed May 20 23:17:23.480074 2020] [wsgi:error] [pid 332188] received my event: {'data': 'User Connected'}
+[Wed May 20 23:17:34.345862 2020] [wsgi:error] [pid 332188] received my event: {'user_name': '1244', 'message': ''}
+[Wed May 20 23:17:35.677612 2020] [wsgi:error] [pid 332188] received my event: {'user_name': '1244', 'message': '\xec\x97\x89'}
+[Wed May 20 23:17:42.023760 2020] [wsgi:error] [pid 332188] received my event: {'user_name': '1244', 'message': '\xed\x95\x98\xed\x95\x98'}
+[Thu May 21 00:00:33.089665 2020] [wsgi:error] [pid 332190] [client 192.168.35.245:37776] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.35.245/game
+[Thu May 21 00:00:33.089679 2020] [wsgi:error] [pid 350355] [client 192.168.35.232:50607] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.35.245/game
+[Thu May 21 00:00:34.104368 2020] [wsgi:error] [pid 354649] received my event: {'data': 'User Connected'}
+[Thu May 21 00:00:35.873629 2020] [wsgi:error] [pid 354649] received my event: {'data': 'User Connected'}
+[Thu May 21 00:11:05.944969 2020] [wsgi:error] [pid 354649] received my event: {'data': 'User Connected'}
+[Thu May 21 00:19:07.961325 2020] [wsgi:error] [pid 354649] received my event: {'data': 'User Connected'}
+[Thu May 21 01:31:11.283036 2020] [wsgi:error] [pid 354649] received my event: {'data': 'User Connected'}
+[Thu May 21 01:32:42.021864 2020] [wsgi:error] [pid 354649] received my event: {'data': 'User Connected'}
+[Thu May 21 01:36:10.199134 2020] [wsgi:error] [pid 354649] received my event: {'data': 'User Connected'}
+[Thu May 21 01:37:58.160247 2020] [wsgi:error] [pid 354649] received my event: {'data': 'User Connected'}
+[Thu May 21 01:41:48.467042 2020] [wsgi:error] [pid 354649] received my event: {'user_name': '', 'message': '\xed\x95\x98\xed\x95\x98'}
+[Thu May 21 01:41:48.479718 2020] [wsgi:error] [pid 354649] received my event: {'user_name': '', 'message': ''}
+[Thu May 21 01:41:53.553722 2020] [wsgi:error] [pid 354649] received my event: {'user_name': '\xe3\x85\x81\xe3\x84\xb4\xe3\x85\x87\xe3\x84\xb9', 'message': '\xed\x95\x98\xed\x95\x98'}
+[Thu May 21 01:41:53.571532 2020] [wsgi:error] [pid 354649] received my event: {'user_name': '\xe3\x85\x81\xe3\x84\xb4\xe3\x85\x87\xe3\x84\xb9', 'message': ''}
+[Thu May 21 01:41:59.960265 2020] [wsgi:error] [pid 354649] received my event: {'user_name': '\xe3\x85\x81\xe3\x84\xb4\xe3\x85\x87\xe3\x84\xb9', 'message': '\xeb\x82\x98\xeb\xb2\x84\xec\x96\xb4'}
+[Thu May 21 01:41:59.986541 2020] [wsgi:error] [pid 354649] received my event: {'user_name': '\xe3\x85\x81\xe3\x84\xb4\xe3\x85\x87\xe3\x84\xb9', 'message': ''}
+[Thu May 21 01:42:01.264930 2020] [wsgi:error] [pid 354649] received my event: {'data': 'User Connected'}
+[Thu May 21 01:45:24.343130 2020] [wsgi:error] [pid 354672] (2)No such file or directory: [client 192.168.35.245:38896] mod_wsgi (pid=354672): Unable to connect to WSGI daemon process 'wordgameteam4' on '/var/run/apache2/wsgi.313848.41.1.sock' as user with uid=33., referer: http://192.168.35.245/
+[Thu May 21 01:45:25.838434 2020] [wsgi:error] [pid 354669] [client 192.168.35.245:38750] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.35.245/game
+[Thu May 21 01:45:25.838434 2020] [wsgi:error] [pid 354651] [client 192.168.35.232:51124] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.35.245/game
+[Thu May 21 01:45:25.838492 2020] [wsgi:error] [pid 354650] [client 192.168.35.232:51173] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.35.245/game
+[Thu May 21 01:45:26.466299 2020] [wsgi:error] [pid 359187] received my event: {'data': 'User Connected'}
+[Thu May 21 01:45:26.864165 2020] [wsgi:error] [pid 359187] received my event: {'data': 'User Connected'}
+[Thu May 21 01:45:27.058032 2020] [wsgi:error] [pid 359187] received my event: {'data': 'User Connected'}
+[Thu May 21 01:45:33.516736 2020] [wsgi:error] [pid 359187] received my event: {'user_name': 'asdf', 'message': '\xec\x95\x84\xec\x95\x84'}
+[Thu May 21 01:53:20.724422 2020] [wsgi:error] [pid 359191] [client 192.168.35.232:51200] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.35.245/game
+[Thu May 21 01:53:20.724447 2020] [wsgi:error] [pid 359209] [client 192.168.35.232:51206] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.35.245/game
+[Thu May 21 01:53:20.724447 2020] [wsgi:error] [pid 359190] [client 192.168.35.245:38902] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.35.245/game
+[Thu May 21 01:53:21.394935 2020] [wsgi:error] [pid 359357] received my event: {'data': 'User Connected'}
+[Thu May 21 01:53:21.723350 2020] [wsgi:error] [pid 359357] received my event: {'data': 'User Connected'}
+[Thu May 21 01:53:22.106238 2020] [wsgi:error] [pid 359357] received my event: {'data': 'User Connected'}
+[Thu May 21 01:53:22.113168 2020] [wsgi:error] [pid 359357] received my event: {'data': 'User Connected'}
+[Thu May 21 01:53:29.468777 2020] [wsgi:error] [pid 359357] received my event: {'user_name': 'asdf', 'message': '\xea\xb0\x80\xec\x84\x9c\xed\x83\x80'}
+[Thu May 21 01:53:32.276322 2020] [wsgi:error] [pid 359357] received my event: {'data': 'User Connected'}
+[Thu May 21 02:11:09.468318 2020] [wsgi:error] [pid 359383] [client 192.168.35.232:52173] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.35.245/game
+[Thu May 21 02:11:09.468376 2020] [wsgi:error] [pid 359382] [client 192.168.35.245:39054] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.35.245/game
+[Thu May 21 02:11:09.468412 2020] [wsgi:error] [pid 359380] [client 192.168.35.232:52174] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.35.245/game
+[Thu May 21 02:11:10.431100 2020] [wsgi:error] [pid 360014] received my event: {'data': 'User Connected'}
+[Thu May 21 02:11:11.051212 2020] [wsgi:error] [pid 360014] received my event: {'data': 'User Connected'}
+[Thu May 21 02:11:11.080562 2020] [wsgi:error] [pid 360014] received my event: {'data': 'User Connected'}
+[Thu May 21 02:11:14.294708 2020] [wsgi:error] [pid 360014] received my event: {'user_name': 'asdf', 'message': '\xeb\x8b\xa4\xeb\xa6\xac'}
+[Thu May 21 02:11:35.351626 2020] [wsgi:error] [pid 360014] received my event: {'user_name': 'asdf', 'message': '\xea\xb0\x80\xeb\xa7\x88'}
+[Thu May 21 02:11:41.597374 2020] [wsgi:error] [pid 360014] received my event: {'user_name': 'asdf', 'message': '\xec\xb9\xb4\xed\x8c\x8c\xeb\x8b\xa4'}
+[Thu May 21 02:14:00.431276 2020] [wsgi:error] [pid 360014] received my event: {'data': 'User Connected'}
+[Thu May 21 02:14:12.849128 2020] [wsgi:error] [pid 360040] [client 192.168.35.245:39262] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.35.245/game
+[Thu May 21 02:14:12.849160 2020] [wsgi:error] [pid 360036] [client 192.168.35.232:52210] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.35.245/game
+[Thu May 21 02:14:12.849176 2020] [wsgi:error] [pid 360032] [client 192.168.35.232:52209] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.35.245/game
+[Thu May 21 02:14:13.630887 2020] [wsgi:error] [pid 360118] received my event: {'data': 'User Connected'}
+[Thu May 21 02:14:15.152527 2020] [wsgi:error] [pid 360118] received my event: {'data': 'User Connected'}
+[Thu May 21 02:14:15.156927 2020] [wsgi:error] [pid 360118] received my event: {'data': 'User Connected'}
+[Thu May 21 02:14:20.878428 2020] [wsgi:error] [pid 360118] received my event: {'user_name': 'asdf', 'message': '\xeb\xa8\xb8'}
+[Thu May 21 02:14:25.287706 2020] [wsgi:error] [pid 360118] received my event: {'user_name': 'asdf', 'message': '\xeb\xa7\x88\xec\xb2\x98\xec\x82\xac'}
+[Thu May 21 02:15:08.405876 2020] [wsgi:error] [pid 360139] [client 192.168.35.232:52220] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.35.245/game
+[Thu May 21 02:15:08.405878 2020] [wsgi:error] [pid 360120] [client 192.168.35.232:52216] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.35.245/game
+[Thu May 21 02:15:08.406019 2020] [wsgi:error] [pid 360119] [client 192.168.35.245:39268] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.35.245/game
+[Thu May 21 02:15:08.425872 2020] [wsgi:error] [pid 360123] (2)No such file or directory: [client 192.168.35.245:39282] mod_wsgi (pid=360123): Unable to connect to WSGI daemon process 'wordgameteam4' on '/var/run/apache2/wsgi.313848.45.1.sock' as user with uid=33., referer: http://192.168.35.245/game
+[Thu May 21 02:15:09.827426 2020] [wsgi:error] [pid 360166] received my event: {'data': 'User Connected'}
+[Thu May 21 02:15:10.144961 2020] [wsgi:error] [pid 360166] received my event: {'data': 'User Connected'}
+[Thu May 21 02:15:11.059713 2020] [wsgi:error] [pid 360166] received my event: {'data': 'User Connected'}
+[Thu May 21 02:15:13.732523 2020] [wsgi:error] [pid 360166] received my event: {'user_name': 'asdf', 'message': '\xeb\xa3\xa8\xed\x8c\xa1'}
+[Thu May 21 02:15:18.017437 2020] [wsgi:error] [pid 360166] received my event: {'user_name': 'asdf', 'message': '\xeb\xa3\xa8\xed\x8c\x8c\xec\x9e\x90'}
+[Thu May 21 02:15:53.740994 2020] [wsgi:error] [pid 360167] [client 192.168.35.245:39284] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.35.245/game
+[Thu May 21 02:15:53.741011 2020] [wsgi:error] [pid 360180] [client 192.168.35.232:52228] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.35.245/game
+[Thu May 21 02:15:53.741011 2020] [wsgi:error] [pid 360170] [client 192.168.35.232:52227] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.35.245/game
+[Thu May 21 02:15:54.344682 2020] [wsgi:error] [pid 360220] received my event: {'data': 'User Connected'}
+[Thu May 21 02:15:54.584031 2020] [wsgi:error] [pid 360220] received my event: {'data': 'User Connected'}
+[Thu May 21 02:15:55.340465 2020] [wsgi:error] [pid 360220] received my event: {'data': 'User Connected'}
+[Thu May 21 02:15:55.369530 2020] [wsgi:error] [pid 360220] received my event: {'data': 'User Connected'}
+[Thu May 21 02:15:57.705790 2020] [wsgi:error] [pid 360220] received my event: {'user_name': 'asdf', 'message': '\xec\x9e\x90\xea\xb1\xb0\xea\xb0\x80'}
+[Thu May 21 02:16:05.431295 2020] [wsgi:error] [pid 360220] received my event: {'user_name': 'asdf', 'message': '\xec\xa0\x80\xeb\xa1\x9c\xea\xb0\x80'}
+[Thu May 21 02:16:07.705289 2020] [wsgi:error] [pid 360220] received my event: {'user_name': 'asdf', 'message': '\xec\x9e\x90\xea\xb1\xb0\xea\xb1\xb0'}
+[Thu May 21 02:16:12.143604 2020] [wsgi:error] [pid 360220] received my event: {'user_name': 'asdf', 'message': '\xec\xa7\x80\xea\xb1\xb0\xea\xb5\xad'}
+[Thu May 21 02:17:05.451508 2020] [wsgi:error] [pid 360220] received my event: {'data': 'User Connected'}
+[Thu May 21 02:17:09.088682 2020] [wsgi:error] [pid 360220] received my event: {'user_name': 'asdf', 'message': '\xe3\x85\x97\xe3\x85\x97'}
+[Thu May 21 02:17:22.240073 2020] [wsgi:error] [pid 360220] received my event: {'user_name': 'asdf', 'message': 'ffff'}
+[Thu May 21 02:17:28.057716 2020] [wsgi:error] [pid 360220] received my event: {'user_name': 'fff', 'message': ''}
+[Thu May 21 02:17:29.898504 2020] [wsgi:error] [pid 360220] received my event: {'user_name': 'fff', 'message': ''}
+[Thu May 21 02:17:32.061973 2020] [wsgi:error] [pid 360220] received my event: {'user_name': 'fff', 'message': 'asfd'}
+[Thu May 21 02:17:36.021308 2020] [wsgi:error] [pid 360220] received my event: {'user_name': 'asdf', 'message': '\xe3\x85\x8f\xe3\x85\x9a'}
+[Thu May 21 02:20:00.135032 2020] [wsgi:error] [pid 360220] received my event: {'data': 'User Connected'}
+[Thu May 21 02:20:05.240106 2020] [wsgi:error] [pid 360220] received my event: {'data': 'User Connected'}
+[Thu May 21 02:20:25.975636 2020] [wsgi:error] [pid 360220] received my event: {'data': 'User Connected'}
+[Thu May 21 02:20:27.574561 2020] [wsgi:error] [pid 360220] received my event: {'data': 'User Connected'}
+[Thu May 21 02:20:33.548023 2020] [wsgi:error] [pid 360220] received my event: {'user_name': '\xe3\x85\x8e\xe3\x85\x8e\xe3\x85\x8e\xe3\x85\x8e', 'message': '\xed\x95\x98\xed\x97\x88\xeb\x9d\xbc'}
+[Thu May 21 02:20:33.763197 2020] [wsgi:error] [pid 360220] received my event: {'data': 'User Connected'}
+[Thu May 21 02:20:33.786380 2020] [wsgi:error] [pid 360220] received my event: {'data': 'User Connected'}
+[Thu May 21 02:20:35.559547 2020] [wsgi:error] [pid 360220] received my event: {'data': 'User Connected'}
+[Thu May 21 02:20:53.576636 2020] [wsgi:error] [pid 360220] received my event: {'user_name': '', 'message': '\xed\x98\xb8\xed\x98\xb8'}
+[Thu May 21 02:21:00.024062 2020] [wsgi:error] [pid 360220] received my event: {'user_name': '\xe3\x85\x87\xe3\x85\x87\xe3\x85\x87', 'message': '\xed\x98\xb8\xed\x95\x98'}
+[Thu May 21 02:21:00.226006 2020] [wsgi:error] [pid 360220] received my event: {'data': 'User Connected'}
+[Thu May 21 02:21:00.264929 2020] [wsgi:error] [pid 360220] received my event: {'data': 'User Connected'}
+[Thu May 21 02:21:03.422778 2020] [wsgi:error] [pid 360220] received my event: {'data': 'User Connected'}
+[Thu May 21 02:21:09.549694 2020] [wsgi:error] [pid 360220] received my event: {'user_name': '\xe3\x84\xb4\xe3\x85\x87', 'message': '\xed\x98\xb8\xed\x95\x98'}
+[Thu May 21 02:21:09.709384 2020] [wsgi:error] [pid 360220] received my event: {'data': 'User Connected'}
+[Thu May 21 02:21:09.749453 2020] [wsgi:error] [pid 360220] received my event: {'data': 'User Connected'}
+[Thu May 21 02:21:11.818478 2020] [wsgi:error] [pid 360220] received my event: {'data': 'User Connected'}
+[Thu May 21 02:22:20.650338 2020] [wsgi:error] [pid 360220] received my event: {'data': 'User Connected'}
+[Thu May 21 02:22:37.817432 2020] [wsgi:error] [pid 360220] received my event: {'data': 'User Connected'}
+[Thu May 21 02:23:37.335755 2020] [wsgi:error] [pid 360609] received my event: {'data': 'User Connected'}
+[Thu May 21 02:23:37.339109 2020] [wsgi:error] [pid 360609] received my event: {'data': 'User Connected'}
+[Thu May 21 02:23:37.342348 2020] [wsgi:error] [pid 360609] received my event: {'data': 'User Connected'}
+[Thu May 21 02:23:38.256805 2020] [wsgi:error] [pid 360609] received my event: {'data': 'User Connected'}
+[Thu May 21 02:23:41.475051 2020] [wsgi:error] [pid 360609] received my event: {'data': 'User Connected'}
+[Thu May 21 02:24:19.196785 2020] [wsgi:error] [pid 360609] received my event: {'data': 'User Connected'}
+[Thu May 21 02:25:37.284855 2020] [wsgi:error] [pid 360609] received my event: {'data': 'User Connected'}
+[Thu May 21 02:26:40.923868 2020] [wsgi:error] [pid 360609] received my event: {'data': 'User Connected'}
+[Thu May 21 02:27:06.057906 2020] [wsgi:error] [pid 360753] received my event: {'data': 'User Connected'}
+[Thu May 21 02:27:06.243732 2020] [wsgi:error] [pid 360753] received my event: {'data': 'User Connected'}
+[Thu May 21 02:27:09.184449 2020] [wsgi:error] [pid 360753] received my event: {'data': 'User Connected'}
+[Thu May 21 02:27:09.300028 2020] [wsgi:error] [pid 360753] received my event: {'data': 'User Connected'}
+[Thu May 21 02:27:11.861846 2020] [wsgi:error] [pid 360753] received my event: {'data': 'User Connected'}
+[Thu May 21 02:27:13.094684 2020] [wsgi:error] [pid 360753] received my event: {'data': 'User Connected'}
+[Thu May 21 02:27:13.287835 2020] [wsgi:error] [pid 360753] received my event: {'data': 'User Connected'}
+[Thu May 21 02:27:13.487715 2020] [wsgi:error] [pid 360753] received my event: {'data': 'User Connected'}
+[Thu May 21 02:27:13.678115 2020] [wsgi:error] [pid 360753] received my event: {'data': 'User Connected'}
+[Thu May 21 02:27:13.982203 2020] [wsgi:error] [pid 360753] received my event: {'data': 'User Connected'}
+[Thu May 21 02:27:14.059919 2020] [wsgi:error] [pid 360753] received my event: {'data': 'User Connected'}
+[Thu May 21 02:28:01.029398 2020] [wsgi:error] [pid 360753] received my event: {'data': 'User Connected'}
+[Thu May 21 02:28:01.427630 2020] [wsgi:error] [pid 360753] received my event: {'data': 'User Connected'}
+[Thu May 21 02:28:04.085146 2020] [wsgi:error] [pid 360753] received my event: {'data': 'User Connected'}
+[Thu May 21 02:28:52.692304 2020] [wsgi:error] [pid 360779] [client 192.168.35.232:52620] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.35.245/game
+[Thu May 21 02:28:52.692333 2020] [wsgi:error] [pid 360757] [client 192.168.35.245:39492] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.35.245/game
+[Thu May 21 02:28:52.692333 2020] [wsgi:error] [pid 360777] [client 192.168.35.232:52644] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.35.245/game
+[Thu May 21 02:28:52.692351 2020] [wsgi:error] [pid 360770] [client 192.168.35.232:52648] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.35.245/game
+[Thu May 21 02:28:52.715054 2020] [wsgi:error] [pid 360772] (2)No such file or directory: [client 192.168.35.245:39510] mod_wsgi (pid=360772): Unable to connect to WSGI daemon process 'wordgameteam4' on '/var/run/apache2/wsgi.360752.0.1.sock' as user with uid=33., referer: http://192.168.35.245/game
+[Thu May 21 02:28:53.531452 2020] [wsgi:error] [pid 360859] received my event: {'data': 'User Connected'}
+[Thu May 21 02:28:54.382084 2020] [wsgi:error] [pid 360859] received my event: {'data': 'User Connected'}
+[Thu May 21 02:28:55.302454 2020] [wsgi:error] [pid 360859] received my event: {'data': 'User Connected'}
+[Thu May 21 02:29:01.076990 2020] [wsgi:error] [pid 360859] received my event: {'data': 'User Connected'}
+[Thu May 21 02:29:26.313868 2020] [wsgi:error] [pid 360878] (2)No such file or directory: [client 192.168.35.232:52696] mod_wsgi (pid=360878): Unable to connect to WSGI daemon process 'wordgameteam4' on '/var/run/apache2/wsgi.360752.1.1.sock' as user with uid=33., referer: http://192.168.35.245/game
+[Thu May 21 02:29:28.513696 2020] [wsgi:error] [pid 360864] [client 192.168.35.232:52681] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.35.245/game
+[Thu May 21 02:29:28.513724 2020] [wsgi:error] [pid 360875] [client 192.168.35.232:52682] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.35.245/game
+[Thu May 21 02:29:28.513748 2020] [wsgi:error] [pid 360863] [client 192.168.35.232:52687] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.35.245/game
+[Thu May 21 02:29:29.139569 2020] [wsgi:error] [pid 360913] received my event: {'data': 'User Connected'}
+[Thu May 21 02:29:30.083619 2020] [wsgi:error] [pid 360913] received my event: {'data': 'User Connected'}
+[Thu May 21 02:29:31.250411 2020] [wsgi:error] [pid 360913] received my event: {'data': 'User Connected'}
+[Thu May 21 02:29:39.919596 2020] [wsgi:error] [pid 360916] [client 192.168.35.232:52707] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.35.245/game
+[Thu May 21 02:29:39.919661 2020] [wsgi:error] [pid 360917] [client 192.168.35.232:52705] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.35.245/game
+[Thu May 21 02:29:39.919661 2020] [wsgi:error] [pid 360918] [client 192.168.35.232:52708] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.35.245/game
+[Thu May 21 02:29:40.682643 2020] [wsgi:error] [pid 360945] received my event: {'data': 'User Connected'}
+[Thu May 21 02:29:40.697243 2020] [wsgi:error] [pid 360945] received my event: {'data': 'User Connected'}
+[Thu May 21 02:29:41.386485 2020] [wsgi:error] [pid 360945] received my event: {'data': 'User Connected'}
+[Thu May 21 02:29:42.310073 2020] [wsgi:error] [pid 360945] received my event: {'data': 'User Connected'}
+[Thu May 21 02:29:43.990624 2020] [wsgi:error] [pid 360945] received my event: {'data': 'User Connected'}
+[Thu May 21 02:31:07.584218 2020] [wsgi:error] [pid 360945] received my event: {'data': 'User Connected'}
+[Thu May 21 02:32:16.537237 2020] [wsgi:error] [pid 360945] received my event: {'data': 'User Connected'}
+[Thu May 21 02:32:32.192303 2020] [wsgi:error] [pid 360945] received my event: {'user_name': 'asdf', 'message': '\xed\x95\x98\xed\x95\x98'}
+[Thu May 21 02:33:09.668045 2020] [wsgi:error] [pid 360945] received my event: {'data': 'User Connected'}
+[Thu May 21 02:33:15.200636 2020] [wsgi:error] [pid 360945] received my event: {'user_name': 'asdf', 'message': '\xed\x95\x98\xed\x95\x98'}
+[Thu May 21 02:35:21.776138 2020] [wsgi:error] [pid 360945] received my event: {'user_name': 'asdf', 'message': '\xed\x84\xb8\xeb\xa0\x88\xea\xb8\xb0'}
+[Thu May 21 02:35:22.079753 2020] [wsgi:error] [pid 360945] received my event: {'data': 'User Connected'}
+[Thu May 21 02:35:22.088631 2020] [wsgi:error] [pid 360945] received my event: {'data': 'User Connected'}
+[Thu May 21 02:39:00.442274 2020] [wsgi:error] [pid 360988] [client 192.168.35.232:52957] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.35.245/game
+[Thu May 21 02:39:00.442309 2020] [wsgi:error] [pid 360947] [client 192.168.35.245:39524] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.35.245/game
+[Thu May 21 02:39:00.442346 2020] [wsgi:error] [pid 360948] [client 192.168.35.232:52903] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.35.245/game
+[Thu May 21 02:39:00.442357 2020] [wsgi:error] [pid 361002] [client 192.168.35.232:52927] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.35.245/game
+[Thu May 21 02:39:01.071027 2020] [wsgi:error] [pid 361269] received my event: {'data': 'User Connected'}
+[Thu May 21 02:39:01.091374 2020] [wsgi:error] [pid 361269] received my event: {'data': 'User Connected'}
+[Thu May 21 02:39:01.489814 2020] [wsgi:error] [pid 361269] received my event: {'data': 'User Connected'}
+[Thu May 21 02:39:02.179279 2020] [wsgi:error] [pid 361269] received my event: {'data': 'User Connected'}
+[Thu May 21 02:39:03.131314 2020] [wsgi:error] [pid 361269] received my event: {'data': 'User Connected'}
+[Thu May 21 02:39:09.463807 2020] [wsgi:error] [pid 361269] received my event: {'data': 'User Connected'}
+[Thu May 21 02:39:11.039263 2020] [wsgi:error] [pid 361269] received my event: {'user_name': 'gs', 'message': '\xec\x8b\x9c\xec\x86\x8c'}
+[Thu May 21 02:49:10.220630 2020] [wsgi:error] [pid 361269] received my event: {'data': 'User Connected'}
+[Thu May 21 02:49:15.190514 2020] [wsgi:error] [pid 361269] received my event: {'data': 'User Connected'}
+[Thu May 21 02:49:16.854994 2020] [wsgi:error] [pid 361269] received my event: {'data': 'User Connected'}
+[Thu May 21 02:49:18.405454 2020] [wsgi:error] [pid 361269] received my event: {'data': 'User Connected'}
+[Thu May 21 02:49:23.195023 2020] [wsgi:error] [pid 361269] received my event: {'user_name': 'gs', 'message': '\xeb\xb3\xb4\xea\xb0\x95'}
+[Thu May 21 02:59:55.489978 2020] [wsgi:error] [pid 361269] received my event: {'data': 'User Connected'}
+[Thu May 21 10:16:09.440344 2020] [wsgi:error] [pid 361269] received my event: {'data': 'User Connected'}
+[Thu May 21 10:16:18.667533 2020] [wsgi:error] [pid 361269] received my event: {'data': 'User Connected'}
+[Thu May 21 10:16:19.259290 2020] [wsgi:error] [pid 361269] received my event: {'data': 'User Connected'}
+[Thu May 21 10:34:01.153108 2020] [wsgi:error] [pid 361269] received my event: {'data': 'User Connected'}
+[Thu May 21 12:01:18.243138 2020] [wsgi:error] [pid 361269] received my event: {'data': 'User Connected'}
+[Thu May 21 13:26:27.436095 2020] [wsgi:error] [pid 361269] received my event: {'data': 'User Connected'}
+[Thu May 21 13:26:27.440394 2020] [wsgi:error] [pid 361269] received my event: {'data': 'User Connected'}
+[Thu May 21 13:42:59.406036 2020] [wsgi:error] [pid 361269] received my event: {'data': 'User Connected'}
+[Thu May 21 13:43:00.334166 2020] [wsgi:error] [pid 361269] received my event: {'data': 'User Connected'}
+[Thu May 21 13:48:24.168669 2020] [wsgi:error] [pid 361269] received my event: {'data': 'User Connected'}
+[Thu May 21 13:50:29.240113 2020] [wsgi:error] [pid 361269] received my event: {'data': 'User Connected'}
+[Thu May 21 16:48:40.937048 2020] [wsgi:error] [pid 379270] received my event: {'data': 'User Connected'}
+[Thu May 21 16:49:26.449065 2020] [wsgi:error] [pid 379274] [client 192.168.198.165:58818] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.198.165/game
+[Thu May 21 16:49:27.348205 2020] [wsgi:error] [pid 379351] received my event: {'data': 'User Connected'}
+[Thu May 21 16:49:41.228356 2020] [wsgi:error] [pid 379351] received my event: {'user_name': 'asdf', 'message': '\xec\x95\xa0\xeb\xa7\x88'}
+[Thu May 21 16:49:49.235167 2020] [wsgi:error] [pid 379351] received my event: {'user_name': 'asdf', 'message': '\xec\x98\xa4\xeb\xa7\x88'}
+[Thu May 21 16:49:52.670021 2020] [wsgi:error] [pid 379351] received my event: {'user_name': 'asdf', 'message': '\xec\x9d\xb4\xeb\xa8\xb8'}
+[Thu May 21 16:49:57.944888 2020] [wsgi:error] [pid 379351] received my event: {'user_name': 'asdf', 'message': '\xec\x9d\xb4\xeb\xa8\xb8'}
+[Thu May 21 16:50:04.431278 2020] [wsgi:error] [pid 379351] received my event: {'user_name': 'asdf', 'message': '\xed\x8f\xac\xeb\x9f\xac'}
+[Thu May 21 16:50:08.386106 2020] [wsgi:error] [pid 379351] received my event: {'data': 'User Connected'}
+[Thu May 21 16:50:40.634879 2020] [wsgi:error] [pid 379351] received my event: {'data': 'User Connected'}
+[Thu May 21 16:50:41.995632 2020] [wsgi:error] [pid 379351] received my event: {'data': 'User Connected'}
+[Thu May 21 16:50:50.870641 2020] [wsgi:error] [pid 379351] received my event: {'user_name': '', 'message': '\xed\x95\x98\xeb\xb0\x94'}
+[Thu May 21 16:50:57.793211 2020] [wsgi:error] [pid 379351] received my event: {'user_name': '', 'message': '\xed\x98\xb8\xec\xa1\xb0'}
+[Thu May 21 16:51:00.658648 2020] [wsgi:error] [pid 379351] received my event: {'data': 'User Connected'}
+[Thu May 21 16:51:16.480818 2020] [wsgi:error] [pid 379351] received my event: {'user_name': '', 'message': '\xec\x8c\x8d\xed\x85\x8c'}
+[Thu May 21 16:51:52.862047 2020] [wsgi:error] [pid 379369] [client 192.168.198.165:58874] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.198.165/game
+[Thu May 21 16:51:53.398046 2020] [wsgi:error] [pid 379436] received my event: {'data': 'User Connected'}
+[Thu May 21 16:51:53.527784 2020] [wsgi:error] [pid 379436] received my event: {'data': 'User Connected'}
+[Thu May 21 16:51:58.548429 2020] [wsgi:error] [pid 379436] received my event: {'user_name': 'asfd', 'message': '\xeb\x9d\xbc\xeb\x82\x98'}
+[Thu May 21 16:52:01.507271 2020] [wsgi:error] [pid 379436] received my event: {'user_name': 'asfd', 'message': '\xeb\xa6\xac\xeb\x84\xa4'}
+[Thu May 21 16:54:28.117773 2020] [wsgi:error] [pid 379439] [client 192.168.198.165:58904] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.198.165/game
+[Thu May 21 16:54:28.150026 2020] [wsgi:error] [pid 379441] (2)No such file or directory: [client 192.168.198.165:59078] mod_wsgi (pid=379441): Unable to connect to WSGI daemon process 'wordgameteam4' on '/var/run/apache2/wsgi.360752.10.1.sock' as user with uid=33., referer: http://192.168.198.165/game
+[Thu May 21 16:54:29.024989 2020] [wsgi:error] [pid 379526] received my event: {'data': 'User Connected'}
+[Thu May 21 16:54:29.214239 2020] [wsgi:error] [pid 379526] received my event: {'data': 'User Connected'}
+[Thu May 21 16:54:32.011543 2020] [wsgi:error] [pid 379526] received my event: {'user_name': 'asfd', 'message': '\xec\xa7\x9c\xeb\xa7\x88'}
+[Thu May 21 16:55:56.648339 2020] [wsgi:error] [pid 379528] [client 192.168.198.165:59082] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.198.165/game
+[Thu May 21 16:55:57.100289 2020] [wsgi:error] [pid 379582] received my event: {'data': 'User Connected'}
+[Thu May 21 16:55:57.282611 2020] [wsgi:error] [pid 379582] received my event: {'data': 'User Connected'}
+[Thu May 21 16:56:00.073866 2020] [wsgi:error] [pid 379582] received my event: {'user_name': 'asfd', 'message': '\xed\x8c\x8c\xec\xb0\xa8'}
+[Thu May 21 16:56:34.926000 2020] [wsgi:error] [pid 379587] [client 192.168.198.165:59116] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.198.165/game
+[Thu May 21 16:56:35.449258 2020] [wsgi:error] [pid 379622] received my event: {'data': 'User Connected'}
+[Thu May 21 16:56:35.596700 2020] [wsgi:error] [pid 379622] received my event: {'data': 'User Connected'}
+[Thu May 21 16:56:37.573175 2020] [wsgi:error] [pid 379622] received my event: {'user_name': 'asfd', 'message': '\xec\x95\x84\xed\x83\x80'}
+[Fri May 22 15:15:39.859748 2020] [wsgi:error] [pid 422755] received my event: {'data': 'User Connected'}
+[Fri May 22 15:15:39.993188 2020] [wsgi:error] [pid 422755] received my event: {'data': 'User Connected'}
+[Fri May 22 15:15:40.381486 2020] [wsgi:error] [pid 422755] received my event: {'data': 'User Connected'}
+[Fri May 22 15:15:49.456458 2020] [wsgi:error] [pid 422755] received my event: {'user_name': 'asdf', 'message': '\xeb\x9d\xbc\xeb\x82\x98'}
+[Fri May 22 15:31:46.584961 2020] [wsgi:error] [pid 422756] [client 192.168.35.232:56352] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.35.245/game
+[Fri May 22 15:31:46.584961 2020] [wsgi:error] [pid 422760] [client 192.168.35.232:56338] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.35.245/game
+[Fri May 22 15:31:48.206283 2020] [wsgi:error] [pid 423978] received my event: {'data': 'User Connected'}
+[Fri May 22 15:31:49.125322 2020] [wsgi:error] [pid 423978] received my event: {'data': 'User Connected'}
+[Fri May 22 15:45:22.096418 2020] [wsgi:error] [pid 424869] (2)No such file or directory: [client 192.168.35.232:57076] mod_wsgi (pid=424869): Unable to connect to WSGI daemon process 'wordgameteam4' on '/var/run/apache2/wsgi.360752.22.1.sock' as user with uid=33., referer: http://192.168.35.245/game
+[Fri May 22 15:51:03.713831 2020] [wsgi:error] [pid 425099] received my event: {'data': 'User Connected'}
+[Fri May 22 15:51:09.144475 2020] [wsgi:error] [pid 425099] received my event: {'user_name': 'asdf', 'message': '\xe3\x84\xb9\xeb\x82\x98'}
+[Fri May 22 15:51:21.197095 2020] [wsgi:error] [pid 425099] received my event: {'data': 'User Connected'}
+[Fri May 22 15:51:35.479236 2020] [wsgi:error] [pid 425099] received my event: {'user_name': '\xe3\x84\xb9\xe3\x84\xb9\xe3\x84\xb9', 'message': '\xe3\x84\xb9\xe3\x84\xb4\xe3\x85\x87\xe3\x84\xb9'}
+[Fri May 22 15:52:12.679860 2020] [wsgi:error] [pid 425099] received my event: {'data': 'User Connected'}
+[Fri May 22 16:00:37.401922 2020] [wsgi:error] [pid 425101] [client 192.168.35.245:55304] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.35.245/game
+[Fri May 22 16:00:37.402471 2020] [wsgi:error] [pid 425102] [client 192.168.35.245:55336] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.35.245/game
+[Fri May 22 16:00:37.525245 2020] [wsgi:error] [pid 425112] (2)No such file or directory: [client 192.168.35.245:55472] mod_wsgi (pid=425112): Unable to connect to WSGI daemon process 'wordgameteam4' on '/var/run/apache2/wsgi.360752.24.1.sock' as user with uid=33., referer: http://192.168.35.245/game
+[Fri May 22 16:00:38.456649 2020] [wsgi:error] [pid 425492] received my event: {'data': 'User Connected'}
+[Fri May 22 16:00:39.567036 2020] [wsgi:error] [pid 425492] received my event: {'data': 'User Connected'}
+[Fri May 22 16:00:48.005178 2020] [wsgi:error] [pid 425492] received my event: {'data': 'User Connected'}
+[Fri May 22 16:01:26.475867 2020] [wsgi:error] [pid 425510] [client 192.168.35.245:55490] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.35.245/game
+[Fri May 22 16:01:28.822920 2020] [wsgi:error] [pid 425548] received my event: {'data': 'User Connected'}
+[Fri May 22 16:02:09.597033 2020] [wsgi:error] [pid 425548] received my event: {'data': 'User Connected'}
+[Fri May 22 16:02:18.735854 2020] [wsgi:error] [pid 425548] received my event: {'user_name': 'adf', 'message': 'ddddd'}
+[Fri May 22 16:07:55.918731 2020] [wsgi:error] [pid 425549] [client 192.168.35.245:55510] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.35.245/game
+[Fri May 22 16:07:55.918754 2020] [wsgi:error] [pid 425550] [client 192.168.35.245:55528] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.35.245/game
+[Fri May 22 16:07:58.043813 2020] [wsgi:error] [pid 425788] received my event: {'data': 'User Connected'}
+[Fri May 22 16:08:19.032750 2020] [wsgi:error] [pid 425792] [client 192.168.35.245:55692] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.35.245/game
+[Fri May 22 16:08:19.938481 2020] [wsgi:error] [pid 425866] received my event: {'data': 'User Connected'}
+[Fri May 22 16:08:21.112644 2020] [wsgi:error] [pid 425866] received my event: {'data': 'User Connected'}
+[Fri May 22 16:08:21.724275 2020] [wsgi:error] [pid 425866] received my event: {'user_name': 'adf', 'message': 'asdf'}
+[Fri May 22 16:08:26.329847 2020] [wsgi:error] [pid 425866] received my event: {'user_name': 'adf', 'message': '\xeb\x82\x98'}
+[Fri May 22 16:32:44.751932 2020] [wsgi:error] [pid 425870] [client 192.168.35.245:55706] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.35.245/game
+[Fri May 22 16:32:44.751932 2020] [wsgi:error] [pid 425869] [client 192.168.35.245:55698] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.35.245/game
+[Fri May 22 16:32:45.782315 2020] [wsgi:error] [pid 426523] received my event: {'data': 'User Connected'}
+[Fri May 22 16:32:47.827127 2020] [wsgi:error] [pid 426523] received my event: {'data': 'User Connected'}
+[Fri May 22 16:32:48.511492 2020] [wsgi:error] [pid 426523] received my event: {'data': 'User Connected'}
+[Fri May 22 16:32:51.764479 2020] [wsgi:error] [pid 426523] received my event: {'data': 'User Connected'}
+[Fri May 22 16:32:57.121472 2020] [wsgi:error] [pid 426523] received my event: {'user_name': 'asdf', 'message': '\xeb\xb9\xbb\xeb\xa6\xac'}
+[Fri May 22 16:33:45.865678 2020] [wsgi:error] [pid 426524] [client 192.168.35.245:55988] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.35.245/game
+[Fri May 22 16:33:45.865687 2020] [wsgi:error] [pid 426538] [client 192.168.35.245:55990] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.35.245/game
+[Fri May 22 16:33:45.885264 2020] [wsgi:error] [pid 426525] (2)No such file or directory: [client 192.168.35.245:56016] mod_wsgi (pid=426525): Unable to connect to WSGI daemon process 'wordgameteam4' on '/var/run/apache2/wsgi.360752.29.1.sock' as user with uid=33., referer: http://192.168.35.245/game
+[Fri May 22 16:33:46.663960 2020] [wsgi:error] [pid 426634] received my event: {'data': 'User Connected'}
+[Fri May 22 16:33:47.929010 2020] [wsgi:error] [pid 426634] received my event: {'data': 'User Connected'}
+[Fri May 22 16:33:55.271718 2020] [wsgi:error] [pid 426634] received my event: {'user_name': 'asdf', 'message': '\xeb\xb0\x94\xeb\xb3\xb4'}
+[Fri May 22 16:36:53.954425 2020] [wsgi:error] [pid 426639] [client 192.168.35.245:56030] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.35.245/game
+[Fri May 22 16:36:53.954433 2020] [wsgi:error] [pid 426636] [client 192.168.35.245:56026] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.35.245/game
+[Fri May 22 16:36:56.185298 2020] [wsgi:error] [pid 426723] received my event: {'data': 'User Connected'}
+[Fri May 22 16:36:56.464434 2020] [wsgi:error] [pid 426723] received my event: {'data': 'User Connected'}
+[Fri May 22 16:36:59.736092 2020] [wsgi:error] [pid 426723] received my event: {'data': 'User Connected'}
+[Fri May 22 16:37:03.062984 2020] [wsgi:error] [pid 426723] received my event: {'user_name': '\xe3\x85\x81\xe3\x84\xb4\xe3\x84\xb9\xe3\x85\x87', 'message': '\xeb\x82\x98\xeb\xac\xb4'}
+[Fri May 22 16:37:04.863777 2020] [wsgi:error] [pid 426723] received my event: {'data': 'User Connected'}
+[Fri May 22 16:37:11.368460 2020] [wsgi:error] [pid 426723] received my event: {'user_name': '\xe3\x85\x81\xe3\x84\xb4\xe3\x85\x87\xe3\x84\xb9', 'message': '\xea\xb3\xbc\xec\x9e\x90'}
+[Fri May 22 16:37:25.118348 2020] [wsgi:error] [pid 426723] received my event: {'user_name': '\xe3\x85\x81\xe3\x84\xb4\xe3\x85\x87\xe3\x84\xb9', 'message': '\xea\xb3\xbc\xec\x9e\x90'}
+[Fri May 22 16:38:29.867411 2020] [wsgi:error] [pid 426723] [remote 192.168.35.245:56108] mod_wsgi (pid=426723): Exception occurred processing WSGI script '/home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi'.
+[Fri May 22 16:38:29.869046 2020] [wsgi:error] [pid 426723] [remote 192.168.35.245:56108] Traceback (most recent call last):
+[Fri May 22 16:38:29.869105 2020] [wsgi:error] [pid 426723] [remote 192.168.35.245:56108]   File "/home/minsung/Program/python/venv/flask/lib/python3.7/site-packages/flask/app.py", line 2464, in __call__
+[Fri May 22 16:38:29.869114 2020] [wsgi:error] [pid 426723] [remote 192.168.35.245:56108]     return self.wsgi_app(environ, start_response)
+[Fri May 22 16:38:29.869129 2020] [wsgi:error] [pid 426723] [remote 192.168.35.245:56108]   File "/home/minsung/Program/python/venv/flask/lib/python3.7/site-packages/flask_socketio/__init__.py", line 45, in __call__
+[Fri May 22 16:38:29.869137 2020] [wsgi:error] [pid 426723] [remote 192.168.35.245:56108]     return super(_SocketIOMiddleware, self).__call__(environ,
+[Fri May 22 16:38:29.869148 2020] [wsgi:error] [pid 426723] [remote 192.168.35.245:56108]   File "/home/minsung/Program/python/venv/flask/lib/python3.7/site-packages/engineio/middleware.py", line 60, in __call__
+[Fri May 22 16:38:29.869155 2020] [wsgi:error] [pid 426723] [remote 192.168.35.245:56108]     return self.engineio_app.handle_request(environ, start_response)
+[Fri May 22 16:38:29.869165 2020] [wsgi:error] [pid 426723] [remote 192.168.35.245:56108]   File "/home/minsung/Program/python/venv/flask/lib/python3.7/site-packages/socketio/server.py", line 558, in handle_request
+[Fri May 22 16:38:29.869174 2020] [wsgi:error] [pid 426723] [remote 192.168.35.245:56108]     return self.eio.handle_request(environ, start_response)
+[Fri May 22 16:38:29.869185 2020] [wsgi:error] [pid 426723] [remote 192.168.35.245:56108]   File "/home/minsung/Program/python/venv/flask/lib/python3.7/site-packages/engineio/server.py", line 394, in handle_request
+[Fri May 22 16:38:29.869203 2020] [wsgi:error] [pid 426723] [remote 192.168.35.245:56108]     socket = self._get_socket(sid)
+[Fri May 22 16:38:29.869212 2020] [wsgi:error] [pid 426723] [remote 192.168.35.245:56108]   File "/home/minsung/Program/python/venv/flask/lib/python3.7/site-packages/engineio/server.py", line 562, in _get_socket
+[Fri May 22 16:38:29.869218 2020] [wsgi:error] [pid 426723] [remote 192.168.35.245:56108]     raise KeyError('Session is disconnected')
+[Fri May 22 16:38:29.869238 2020] [wsgi:error] [pid 426723] [remote 192.168.35.245:56108] KeyError: 'Session is disconnected'
+[Fri May 22 16:38:30.874370 2020] [wsgi:error] [pid 426723] received my event: {'data': 'User Connected'}
+[Fri May 22 16:39:26.988427 2020] [wsgi:error] [pid 426728] [client 192.168.35.245:56110] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.35.245/game
+[Fri May 22 16:39:27.549967 2020] [wsgi:error] [pid 426929] received my event: {'data': 'User Connected'}
+[Fri May 22 16:39:27.879330 2020] [wsgi:error] [pid 426929] received my event: {'data': 'User Connected'}
+[Fri May 22 16:39:32.462509 2020] [wsgi:error] [pid 426929] received my event: {'user_name': '\xe3\x85\x81\xe3\x84\xb4\xe3\x85\x87\xe3\x84\xb9', 'message': '\xec\x96\x91\xed\x8c\x8c'}
+[Fri May 22 16:40:52.891292 2020] [wsgi:error] [pid 426929] [remote 192.168.35.245:56232] mod_wsgi (pid=426929): Exception occurred processing WSGI script '/home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi'.
+[Fri May 22 16:40:52.897635 2020] [wsgi:error] [pid 426929] [remote 192.168.35.245:56232] Traceback (most recent call last):
+[Fri May 22 16:40:52.897917 2020] [wsgi:error] [pid 426929] [remote 192.168.35.245:56232]   File "/home/minsung/Program/python/venv/flask/lib/python3.7/site-packages/flask/app.py", line 2464, in __call__
+[Fri May 22 16:40:52.897973 2020] [wsgi:error] [pid 426929] [remote 192.168.35.245:56232]     return self.wsgi_app(environ, start_response)
+[Fri May 22 16:40:52.898037 2020] [wsgi:error] [pid 426929] [remote 192.168.35.245:56232]   File "/home/minsung/Program/python/venv/flask/lib/python3.7/site-packages/flask_socketio/__init__.py", line 45, in __call__
+[Fri May 22 16:40:52.898073 2020] [wsgi:error] [pid 426929] [remote 192.168.35.245:56232]     return super(_SocketIOMiddleware, self).__call__(environ,
+[Fri May 22 16:40:52.898131 2020] [wsgi:error] [pid 426929] [remote 192.168.35.245:56232]   File "/home/minsung/Program/python/venv/flask/lib/python3.7/site-packages/engineio/middleware.py", line 60, in __call__
+[Fri May 22 16:40:52.898162 2020] [wsgi:error] [pid 426929] [remote 192.168.35.245:56232]     return self.engineio_app.handle_request(environ, start_response)
+[Fri May 22 16:40:52.898209 2020] [wsgi:error] [pid 426929] [remote 192.168.35.245:56232]   File "/home/minsung/Program/python/venv/flask/lib/python3.7/site-packages/socketio/server.py", line 558, in handle_request
+[Fri May 22 16:40:52.898252 2020] [wsgi:error] [pid 426929] [remote 192.168.35.245:56232]     return self.eio.handle_request(environ, start_response)
+[Fri May 22 16:40:52.898307 2020] [wsgi:error] [pid 426929] [remote 192.168.35.245:56232]   File "/home/minsung/Program/python/venv/flask/lib/python3.7/site-packages/engineio/server.py", line 394, in handle_request
+[Fri May 22 16:40:52.898341 2020] [wsgi:error] [pid 426929] [remote 192.168.35.245:56232]     socket = self._get_socket(sid)
+[Fri May 22 16:40:52.898385 2020] [wsgi:error] [pid 426929] [remote 192.168.35.245:56232]   File "/home/minsung/Program/python/venv/flask/lib/python3.7/site-packages/engineio/server.py", line 562, in _get_socket
+[Fri May 22 16:40:52.898409 2020] [wsgi:error] [pid 426929] [remote 192.168.35.245:56232]     raise KeyError('Session is disconnected')
+[Fri May 22 16:40:52.898529 2020] [wsgi:error] [pid 426929] [remote 192.168.35.245:56232] KeyError: 'Session is disconnected'
+[Fri May 22 16:40:54.973614 2020] [wsgi:error] [pid 426929] received my event: {'data': 'User Connected'}
+[Fri May 22 16:41:09.855668 2020] [wsgi:error] [pid 426931] [client 192.168.35.245:56234] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.35.245/game
+[Fri May 22 16:41:10.494397 2020] [wsgi:error] [pid 427068] received my event: {'data': 'User Connected'}
+[Fri May 22 16:41:14.089285 2020] [wsgi:error] [pid 427068] received my event: {'user_name': '\xe3\x85\x81\xe3\x84\xb4\xe3\x85\x87\xe3\x84\xb9', 'message': '\xed\x8c\x8c\xeb\xa7\x88'}
+[Fri May 22 16:42:05.584797 2020] [wsgi:error] [pid 427068] received my event: {'user_name': '\xe3\x85\x81\xe3\x84\xb4\xe3\x85\x87\xe3\x84\xb9', 'message': '\xeb\x82\x98\xeb\xac\xb4'}
+[Fri May 22 16:42:35.511949 2020] [wsgi:error] [pid 427068] [remote 192.168.35.245:56256] mod_wsgi (pid=427068): Exception occurred processing WSGI script '/home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi'.
+[Fri May 22 16:42:35.515707 2020] [wsgi:error] [pid 427068] [remote 192.168.35.245:56256] Traceback (most recent call last):
+[Fri May 22 16:42:35.515880 2020] [wsgi:error] [pid 427068] [remote 192.168.35.245:56256]   File "/home/minsung/Program/python/venv/flask/lib/python3.7/site-packages/flask/app.py", line 2464, in __call__
+[Fri May 22 16:42:35.515917 2020] [wsgi:error] [pid 427068] [remote 192.168.35.245:56256]     return self.wsgi_app(environ, start_response)
+[Fri May 22 16:42:35.515964 2020] [wsgi:error] [pid 427068] [remote 192.168.35.245:56256]   File "/home/minsung/Program/python/venv/flask/lib/python3.7/site-packages/flask_socketio/__init__.py", line 45, in __call__
+[Fri May 22 16:42:35.515990 2020] [wsgi:error] [pid 427068] [remote 192.168.35.245:56256]     return super(_SocketIOMiddleware, self).__call__(environ,
+[Fri May 22 16:42:35.516039 2020] [wsgi:error] [pid 427068] [remote 192.168.35.245:56256]   File "/home/minsung/Program/python/venv/flask/lib/python3.7/site-packages/engineio/middleware.py", line 60, in __call__
+[Fri May 22 16:42:35.516089 2020] [wsgi:error] [pid 427068] [remote 192.168.35.245:56256]     return self.engineio_app.handle_request(environ, start_response)
+[Fri May 22 16:42:35.516156 2020] [wsgi:error] [pid 427068] [remote 192.168.35.245:56256]   File "/home/minsung/Program/python/venv/flask/lib/python3.7/site-packages/socketio/server.py", line 558, in handle_request
+[Fri May 22 16:42:35.516184 2020] [wsgi:error] [pid 427068] [remote 192.168.35.245:56256]     return self.eio.handle_request(environ, start_response)
+[Fri May 22 16:42:35.516227 2020] [wsgi:error] [pid 427068] [remote 192.168.35.245:56256]   File "/home/minsung/Program/python/venv/flask/lib/python3.7/site-packages/engineio/server.py", line 394, in handle_request
+[Fri May 22 16:42:35.516251 2020] [wsgi:error] [pid 427068] [remote 192.168.35.245:56256]     socket = self._get_socket(sid)
+[Fri May 22 16:42:35.516297 2020] [wsgi:error] [pid 427068] [remote 192.168.35.245:56256]   File "/home/minsung/Program/python/venv/flask/lib/python3.7/site-packages/engineio/server.py", line 562, in _get_socket
+[Fri May 22 16:42:35.516321 2020] [wsgi:error] [pid 427068] [remote 192.168.35.245:56256]     raise KeyError('Session is disconnected')
+[Fri May 22 16:42:35.516400 2020] [wsgi:error] [pid 427068] [remote 192.168.35.245:56256] KeyError: 'Session is disconnected'
+[Fri May 22 16:42:36.320177 2020] [wsgi:error] [pid 427068] received my event: {'data': 'User Connected'}
+[Fri May 22 16:43:14.995665 2020] [wsgi:error] [pid 427068] received my event: {'data': 'User Connected'}
+[Fri May 22 16:43:33.563052 2020] [wsgi:error] [pid 427068] received my event: {'user_name': '\xe3\x85\x81\xe3\x84\xb4\xe3\x85\x87\xe3\x84\xb9', 'message': '\xeb\x82\x98\xeb\xac\xb4'}
+[Fri May 22 16:43:34.843192 2020] [wsgi:error] [pid 427068] received my event: {'data': 'User Connected'}
+[Fri May 22 16:43:38.940955 2020] [wsgi:error] [pid 427068] received my event: {'data': 'User Connected'}
+[Fri May 22 16:43:39.945757 2020] [wsgi:error] [pid 427068] received my event: {'data': 'User Connected'}
+[Fri May 22 16:43:40.694874 2020] [wsgi:error] [pid 427068] received my event: {'data': 'User Connected'}
+[Fri May 22 16:43:41.494638 2020] [wsgi:error] [pid 427068] received my event: {'data': 'User Connected'}
+[Fri May 22 16:43:46.910541 2020] [wsgi:error] [pid 427068] received my event: {'user_name': '\xe3\x85\x81\xe3\x84\xb4\xe3\x84\xb9\xe3\x85\x87', 'message': '\xeb\xaa\xa8\xeb\x8f\x85'}
+[Fri May 22 16:45:06.372245 2020] [wsgi:error] [pid 427209] received my event: {'data': 'User Connected'}
+[Fri May 22 16:45:08.318876 2020] [wsgi:error] [pid 427209] received my event: {'data': 'User Connected'}
+[Fri May 22 16:45:09.014709 2020] [wsgi:error] [pid 427209] received my event: {'data': 'User Connected'}
+[Fri May 22 16:45:09.573696 2020] [wsgi:error] [pid 427209] received my event: {'data': 'User Connected'}
+[Fri May 22 16:45:14.129416 2020] [wsgi:error] [pid 427209] received my event: {'user_name': '\xe3\x85\x81\xe3\x84\xb4\xe3\x84\xb9\xe3\x85\x87', 'message': '\xea\xb3\xa0\xec\xb6\x94'}
+[Fri May 22 16:46:17.201709 2020] [wsgi:error] [pid 427295] received my event: {'data': 'User Connected'}
+[Fri May 22 16:46:18.762768 2020] [wsgi:error] [pid 427295] received my event: {'data': 'User Connected'}
+[Fri May 22 16:46:19.386981 2020] [wsgi:error] [pid 427295] received my event: {'data': 'User Connected'}
+[Fri May 22 16:46:19.976403 2020] [wsgi:error] [pid 427295] received my event: {'data': 'User Connected'}
+[Fri May 22 16:46:20.528917 2020] [wsgi:error] [pid 427295] received my event: {'data': 'User Connected'}
+[Fri May 22 16:46:21.132869 2020] [wsgi:error] [pid 427295] received my event: {'data': 'User Connected'}
+[Fri May 22 16:46:21.682911 2020] [wsgi:error] [pid 427295] received my event: {'data': 'User Connected'}
+[Fri May 22 16:46:22.222087 2020] [wsgi:error] [pid 427295] received my event: {'data': 'User Connected'}
+[Fri May 22 16:46:22.784809 2020] [wsgi:error] [pid 427295] received my event: {'data': 'User Connected'}
+[Fri May 22 16:46:23.342274 2020] [wsgi:error] [pid 427295] received my event: {'data': 'User Connected'}
+[Fri May 22 16:46:24.160515 2020] [wsgi:error] [pid 427295] received my event: {'data': 'User Connected'}
+[Fri May 22 16:46:24.508846 2020] [wsgi:error] [pid 427295] received my event: {'data': 'User Connected'}
+[Fri May 22 16:46:29.169906 2020] [wsgi:error] [pid 427295] received my event: {'user_name': '\xe3\x85\x81\xe3\x84\xb4\xe3\x84\xb9\xe3\x85\x87', 'message': '\xeb\xb6\x80\xed\x99\x9c'}
+[Fri May 22 16:47:49.510231 2020] [wsgi:error] [pid 427295] [remote 192.168.35.245:56454] mod_wsgi (pid=427295): Exception occurred processing WSGI script '/home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi'.
+[Fri May 22 16:47:49.514595 2020] [wsgi:error] [pid 427295] [remote 192.168.35.245:56454] Traceback (most recent call last):
+[Fri May 22 16:47:49.514760 2020] [wsgi:error] [pid 427295] [remote 192.168.35.245:56454]   File "/home/minsung/Program/python/venv/flask/lib/python3.7/site-packages/flask/app.py", line 2464, in __call__
+[Fri May 22 16:47:49.514801 2020] [wsgi:error] [pid 427295] [remote 192.168.35.245:56454]     return self.wsgi_app(environ, start_response)
+[Fri May 22 16:47:49.514811 2020] [wsgi:error] [pid 427295] [remote 192.168.35.245:56454]   File "/home/minsung/Program/python/venv/flask/lib/python3.7/site-packages/flask_socketio/__init__.py", line 45, in __call__
+[Fri May 22 16:47:49.514817 2020] [wsgi:error] [pid 427295] [remote 192.168.35.245:56454]     return super(_SocketIOMiddleware, self).__call__(environ,
+[Fri May 22 16:47:49.514825 2020] [wsgi:error] [pid 427295] [remote 192.168.35.245:56454]   File "/home/minsung/Program/python/venv/flask/lib/python3.7/site-packages/engineio/middleware.py", line 60, in __call__
+[Fri May 22 16:47:49.514830 2020] [wsgi:error] [pid 427295] [remote 192.168.35.245:56454]     return self.engineio_app.handle_request(environ, start_response)
+[Fri May 22 16:47:49.514837 2020] [wsgi:error] [pid 427295] [remote 192.168.35.245:56454]   File "/home/minsung/Program/python/venv/flask/lib/python3.7/site-packages/socketio/server.py", line 558, in handle_request
+[Fri May 22 16:47:49.514853 2020] [wsgi:error] [pid 427295] [remote 192.168.35.245:56454]     return self.eio.handle_request(environ, start_response)
+[Fri May 22 16:47:49.514862 2020] [wsgi:error] [pid 427295] [remote 192.168.35.245:56454]   File "/home/minsung/Program/python/venv/flask/lib/python3.7/site-packages/engineio/server.py", line 394, in handle_request
+[Fri May 22 16:47:49.514867 2020] [wsgi:error] [pid 427295] [remote 192.168.35.245:56454]     socket = self._get_socket(sid)
+[Fri May 22 16:47:49.514874 2020] [wsgi:error] [pid 427295] [remote 192.168.35.245:56454]   File "/home/minsung/Program/python/venv/flask/lib/python3.7/site-packages/engineio/server.py", line 562, in _get_socket
+[Fri May 22 16:47:49.514878 2020] [wsgi:error] [pid 427295] [remote 192.168.35.245:56454]     raise KeyError('Session is disconnected')
+[Fri May 22 16:47:49.514896 2020] [wsgi:error] [pid 427295] [remote 192.168.35.245:56454] KeyError: 'Session is disconnected'
+[Fri May 22 16:47:50.552228 2020] [wsgi:error] [pid 427295] received my event: {'data': 'User Connected'}
+[Fri May 22 16:50:40.271990 2020] [wsgi:error] [pid 427295] received my event: {'data': 'User Connected'}
+[Fri May 22 16:50:42.094561 2020] [wsgi:error] [pid 427295] received my event: {'data': 'User Connected'}
+[Fri May 22 16:50:46.622708 2020] [wsgi:error] [pid 427295] received my event: {'user_name': '\xe3\x85\x81\xe3\x84\xb4\xe3\x84\xb9\xe3\x85\x87', 'message': '\xea\xb3\xa0\xec\x82\x90'}
+[Fri May 22 16:51:45.230723 2020] [wsgi:error] [pid 427298] [client 192.168.35.245:56508] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.35.245/game
+[Fri May 22 16:51:45.702365 2020] [wsgi:error] [pid 427573] received my event: {'data': 'User Connected'}
+[Fri May 22 16:51:45.911902 2020] [wsgi:error] [pid 427573] received my event: {'data': 'User Connected'}
+[Fri May 22 16:51:47.606435 2020] [wsgi:error] [pid 427573] received my event: {'data': 'User Connected'}
+[Fri May 22 16:51:51.920484 2020] [wsgi:error] [pid 427573] received my event: {'user_name': '\xe3\x85\x81\xe3\x84\xb4\xe3\x84\xb9\xe3\x85\x87', 'message': '\xeb\x8f\x84\xec\x9b\x80'}
+[Fri May 22 16:51:56.367980 2020] [wsgi:error] [pid 427573] received my event: {'user_name': '\xe3\x85\x81\xe3\x84\xb4\xe3\x84\xb9\xe3\x85\x87', 'message': '\xeb\x94\xa9\xea\xb3\xa0'}
+[Fri May 22 16:52:00.151238 2020] [wsgi:error] [pid 427573] received my event: {'data': 'User Connected'}
+[Fri May 22 16:52:05.663788 2020] [wsgi:error] [pid 427573] received my event: {'user_name': '\xe3\x85\x81\xe3\x84\xb4\xe3\x85\x87\xe3\x84\xb9', 'message': '\xec\xb2\x98\xeb\xa7\x88'}
+[Fri May 22 16:52:08.742671 2020] [wsgi:error] [pid 427573] received my event: {'user_name': '\xe3\x85\x81\xe3\x84\xb4\xe3\x85\x87\xe3\x84\xb9', 'message': '\xec\xb0\xa8\xeb\xaf\xb8'}
+[Fri May 22 16:52:11.214174 2020] [wsgi:error] [pid 427573] received my event: {'user_name': '\xe3\x85\x81\xe3\x84\xb4\xe3\x85\x87\xe3\x84\xb9', 'message': '\xec\xb2\x98\xeb\xa7\x88'}
+[Fri May 22 16:52:12.671681 2020] [wsgi:error] [pid 427573] received my event: {'user_name': '\xe3\x85\x81\xe3\x84\xb4\xe3\x85\x87\xe3\x84\xb9', 'message': '\xec\xb2\x98\xeb\xa7\xa4'}
+[Fri May 22 17:00:26.259466 2020] [wsgi:error] [pid 427975] received my event: {'data': 'User Connected'}
+[Fri May 22 17:00:27.463918 2020] [wsgi:error] [pid 427975] received my event: {'data': 'User Connected'}
+[Fri May 22 17:01:42.606150 2020] [wsgi:error] [pid 427980] [client 192.168.35.245:56890] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.35.245/game
+[Fri May 22 17:02:39.126036 2020] [wsgi:error] [pid 428417] received my event: {'data': 'User Connected'}
+[Fri May 22 17:02:46.567256 2020] [wsgi:error] [pid 428417] received my event: {'user_name': 'asfd', 'message': '\xea\xb3\xa0\xea\xb9\x94'}
+[Fri May 22 17:03:02.563422 2020] [wsgi:error] [pid 428417] received my event: {'user_name': 'asfd', 'message': '\xea\xb0\x80\xeb\x81\x94'}
+[Fri May 22 17:03:23.509574 2020] [wsgi:error] [pid 428420] [client 192.168.35.245:56984] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.35.245/game
+[Fri May 22 17:03:24.296873 2020] [wsgi:error] [pid 429013] received my event: {'data': 'User Connected'}
+[Fri May 22 17:03:24.862464 2020] [wsgi:error] [pid 429013] received my event: {'data': 'User Connected'}
+[Fri May 22 17:03:30.529519 2020] [wsgi:error] [pid 429013] received my event: {'user_name': '\xe3\x84\xb4\xe3\x85\x81\xe3\x85\x87\xe3\x84\xb9', 'message': '\xec\x86\x8c\xeb\xa7\xa4'}
+[Fri May 22 17:03:40.860777 2020] [wsgi:error] [pid 429013] received my event: {'user_name': '\xe3\x84\xb4\xe3\x85\x81\xe3\x85\x87\xe3\x84\xb9', 'message': '\xec\x86\x8c\xeb\xa7\xa4'}
+[Fri May 22 17:03:46.329308 2020] [wsgi:error] [pid 429013] received my event: {'user_name': '\xe3\x84\xb4\xe3\x85\x81\xe3\x85\x87\xe3\x84\xb9', 'message': '\xec\x88\x98\xeb\xaa\xa8'}
+[Tue May 26 03:06:48.485223 2020] [wsgi:error] [pid 74317] received my event: {'data': 'User Connected'}
+[Tue May 26 03:06:54.612397 2020] [wsgi:error] [pid 74317] received my event: {'user_name': 'asfd', 'message': '\xed\x95\x98\xeb\x82\x98'}
+[Tue May 26 03:06:57.838405 2020] [wsgi:error] [pid 74317] received my event: {'data': 'User Connected'}
+[Tue May 26 03:09:50.320184 2020] [wsgi:error] [pid 931] received my event: {'data': 'User Connected'}
+[Tue May 26 03:09:56.127129 2020] [wsgi:error] [pid 931] received my event: {'user_name': 'asdf', 'message': '\xeb\x82\x98\xec\xb9\x98'}
+[Tue May 26 03:10:02.158361 2020] [wsgi:error] [pid 931] received my event: {'user_name': 'asdf', 'message': '\xeb\x82\x98\xec\xb9\x98'}
+[Tue May 26 03:10:05.626121 2020] [wsgi:error] [pid 931] received my event: {'user_name': 'asdf', 'message': '\xeb\x85\xb8\xec\xb0\xbd'}
+[Tue May 26 03:10:07.324236 2020] [wsgi:error] [pid 931] received my event: {'user_name': 'asdf', 'message': '\xeb\x85\xb8\xec\xb4\x88'}
+[Tue May 26 03:10:08.856114 2020] [wsgi:error] [pid 931] received my event: {'user_name': 'asdf', 'message': '\xeb\x88\x84\xec\xb0\xa8'}
+[Tue May 26 03:10:11.346210 2020] [wsgi:error] [pid 931] received my event: {'user_name': 'asdf', 'message': '\xeb\x82\xb4\xec\xb2\x98'}
+[Tue May 26 03:10:13.508100 2020] [wsgi:error] [pid 931] received my event: {'user_name': 'asdf', 'message': '\xeb\x82\x98\xec\xb0\xa8'}
+[Tue May 26 03:10:17.056820 2020] [wsgi:error] [pid 931] received my event: {'user_name': 'asdf', 'message': '\xed\x95\x98\xed\x95\x98'}
+[Tue May 26 03:10:18.533361 2020] [wsgi:error] [pid 931] received my event: {'data': 'User Connected'}
+[Tue May 26 04:00:35.219398 2020] [wsgi:error] [pid 931] received my event: {'data': 'User Connected'}
+[Tue May 26 10:16:34.533656 2020] [wsgi:error] [pid 931] received my event: {'data': 'User Connected'}
+[Tue May 26 10:16:39.616433 2020] [wsgi:error] [pid 931] received my event: {'user_name': 'asfd', 'message': '\xea\xb0\x80\xeb\xa7\x88'}
+[Tue May 26 10:21:47.078235 2020] [wsgi:error] [pid 932] [client 192.168.35.245:56714] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.35.245/game
+[Tue May 26 10:21:48.439339 2020] [wsgi:error] [pid 22963] received my event: {'data': 'User Connected'}
+[Tue May 26 10:21:51.600097 2020] [wsgi:error] [pid 22963] received my event: {'data': 'User Connected'}
+[Tue May 26 10:21:52.506312 2020] [wsgi:error] [pid 22963] received my event: {'data': 'User Connected'}
+[Tue May 26 10:23:12.916555 2020] [wsgi:error] [pid 22963] received my event: {'data': 'User Connected'}
+[Tue May 26 11:55:50.180318 2020] [wsgi:error] [pid 22968] [client 192.168.35.245:38304] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.35.245/game
+[Tue May 26 11:56:33.297255 2020] [wsgi:error] [pid 27035] [client 192.168.35.245:38376] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.35.245/game
+[Tue May 26 11:56:34.185499 2020] [wsgi:error] [pid 27126] received my event: {'data': 'User Connected'}
+[Tue May 26 11:56:39.475767 2020] [wsgi:error] [pid 27126] received my event: {'user_name': 'asf', 'message': '\xec\x95\x84\xec\x95\xbc'}
+[Tue May 26 12:02:21.841206 2020] [wsgi:error] [pid 27126] received my event: {'data': 'User Connected'}
+[Tue May 26 12:04:07.029344 2020] [wsgi:error] [pid 27126] received my event: {'data': 'User Connected'}
+[Tue May 26 12:04:09.105570 2020] [wsgi:error] [pid 27126] received my event: {'data': 'User Connected'}
+[Tue May 26 12:04:13.766708 2020] [wsgi:error] [pid 27126] received my event: {'data': 'User Connected'}
+[Tue May 26 12:04:14.618329 2020] [wsgi:error] [pid 27126] received my event: {'data': 'User Connected'}
+[Tue May 26 12:04:16.655827 2020] [wsgi:error] [pid 27126] received my event: {'data': 'User Connected'}
+[Tue May 26 12:04:17.532899 2020] [wsgi:error] [pid 27126] received my event: {'data': 'User Connected'}
+[Tue May 26 12:04:18.249392 2020] [wsgi:error] [pid 27126] received my event: {'data': 'User Connected'}
+[Tue May 26 12:04:19.172439 2020] [wsgi:error] [pid 27126] received my event: {'data': 'User Connected'}
+[Tue May 26 12:04:21.063482 2020] [wsgi:error] [pid 27126] received my event: {'data': 'User Connected'}
+[Tue May 26 12:04:22.897255 2020] [wsgi:error] [pid 27126] received my event: {'data': 'User Connected'}
+[Tue May 26 12:04:23.667385 2020] [wsgi:error] [pid 27126] received my event: {'data': 'User Connected'}
+[Tue May 26 12:04:24.591656 2020] [wsgi:error] [pid 27126] received my event: {'data': 'User Connected'}
+[Tue May 26 12:04:25.274523 2020] [wsgi:error] [pid 27126] received my event: {'data': 'User Connected'}
+[Tue May 26 12:04:25.909718 2020] [wsgi:error] [pid 27126] received my event: {'data': 'User Connected'}
+[Tue May 26 12:04:26.517059 2020] [wsgi:error] [pid 27126] received my event: {'data': 'User Connected'}
+[Tue May 26 12:04:33.106854 2020] [wsgi:error] [pid 27126] received my event: {'user_name': '1', 'message': '\xeb\x8c\x80\xec\xa0\x84'}
+[Tue May 26 12:04:44.106757 2020] [wsgi:error] [pid 27126] received my event: {'user_name': '1', 'message': '\xeb\x8f\x84\xec\xa0\x84'}
+[Tue May 26 12:04:59.709030 2020] [wsgi:error] [pid 27126] received my event: {'user_name': '2', 'message': '\xeb\x8f\x84\xec\x9e\xa5'}
+[Tue May 26 12:05:15.684571 2020] [wsgi:error] [pid 27126] received my event: {'user_name': '2', 'message': '\xeb\x8b\xa4\xec\x9e\x90'}
+[Tue May 26 12:05:18.022709 2020] [wsgi:error] [pid 27126] received my event: {'user_name': '2', 'message': '\xeb\x8d\x94\xec\x9e\x90'}
+[Tue May 26 12:06:18.947848 2020] [wsgi:error] [pid 27126] received my event: {'user_name': '2', 'message': '\xed\x95\x98\xed\x95\x98'}
+[Tue May 26 12:06:23.179378 2020] [wsgi:error] [pid 27126] received my event: {'data': 'User Connected'}
+[Tue May 26 12:17:53.398498 2020] [wsgi:error] [pid 27126] received my event: {'user_name': '\xe3\x85\x81', 'message': '\xec\xb9\xb4\xeb\xb9\xa0'}
+[Tue May 26 12:17:58.400397 2020] [wsgi:error] [pid 27126] received my event: {'user_name': '\xe3\x85\x81', 'message': '\xec\xb9\xb4\xeb\xb9\xa0'}
+[Tue May 26 12:17:58.757293 2020] [wsgi:error] [pid 27126] received my event: {'user_name': '\xe3\x85\x81', 'message': '\xec\xb9\xb4\xeb\xb9\xa0'}
+[Tue May 26 12:17:59.058478 2020] [wsgi:error] [pid 27126] received my event: {'user_name': '\xe3\x85\x81', 'message': '\xec\xb9\xb4\xeb\xb9\xa0'}
+[Tue May 26 12:17:59.332268 2020] [wsgi:error] [pid 27126] received my event: {'user_name': '\xe3\x85\x81', 'message': '\xec\xb9\xb4\xeb\xb9\xa0'}
+[Tue May 26 12:17:59.692371 2020] [wsgi:error] [pid 27126] received my event: {'user_name': '\xe3\x85\x81', 'message': '\xec\xb9\xb4\xeb\xb9\xa0'}
+[Tue May 26 12:17:59.995979 2020] [wsgi:error] [pid 27126] received my event: {'user_name': '\xe3\x85\x81', 'message': '\xec\xb9\xb4\xeb\xb9\xa0'}
+[Tue May 26 12:18:00.361435 2020] [wsgi:error] [pid 27126] received my event: {'user_name': '\xe3\x85\x81', 'message': '\xec\xb9\xb4\xeb\xb9\xa0'}
+[Tue May 26 12:18:00.612815 2020] [wsgi:error] [pid 27126] received my event: {'user_name': '\xe3\x85\x81', 'message': '\xec\xb9\xb4\xeb\xb9\xa0'}
+[Tue May 26 12:18:00.936871 2020] [wsgi:error] [pid 27126] received my event: {'user_name': '\xe3\x85\x81', 'message': '\xec\xb9\xb4\xeb\xb9\xa0'}
+[Tue May 26 12:18:01.209530 2020] [wsgi:error] [pid 27126] received my event: {'user_name': '\xe3\x85\x81', 'message': '\xec\xb9\xb4\xeb\xb9\xa0'}
+[Tue May 26 12:18:01.516119 2020] [wsgi:error] [pid 27126] received my event: {'user_name': '\xe3\x85\x81', 'message': '\xec\xb9\xb4\xeb\xb9\xa0'}
+[Tue May 26 12:18:01.856698 2020] [wsgi:error] [pid 27126] received my event: {'user_name': '\xe3\x85\x81', 'message': '\xec\xb9\xb4\xeb\xb9\xa0'}
+[Tue May 26 12:18:02.267406 2020] [wsgi:error] [pid 27126] received my event: {'user_name': '\xe3\x85\x81', 'message': '\xec\xb9\xb4\xeb\xb9\xa0'}
+[Tue May 26 12:18:02.559776 2020] [wsgi:error] [pid 27126] received my event: {'user_name': '\xe3\x85\x81', 'message': '\xec\xb9\xb4\xeb\xb9\xa0'}
+[Tue May 26 12:18:02.819953 2020] [wsgi:error] [pid 27126] received my event: {'user_name': '\xe3\x85\x81', 'message': '\xec\xb9\xb4\xeb\xb9\xa0'}
+[Tue May 26 12:18:03.096505 2020] [wsgi:error] [pid 27126] received my event: {'user_name': '\xe3\x85\x81', 'message': '\xe3\x85\x8d'}
+[Tue May 26 12:18:04.031682 2020] [wsgi:error] [pid 27126] received my event: {'data': 'User Connected'}
+[Tue May 26 12:29:27.011971 2020] [wsgi:error] [pid 27129] [client 192.168.35.245:40774] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.35.245/game
+[Tue May 26 12:29:59.943907 2020] [wsgi:error] [pid 29021] [client 192.168.35.245:42960] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.35.245/game
+[Tue May 26 12:30:00.666272 2020] [wsgi:error] [pid 29158] received my event: {'data': 'User Connected'}
+[Tue May 26 12:30:03.458269 2020] [wsgi:error] [pid 29158] received my event: {'user_name': 'asdf', 'message': '\xed\x82\xa4\xeb\x8f\x84'}
+[Tue May 26 12:30:21.117883 2020] [wsgi:error] [pid 29158] received my event: {'data': 'User Connected'}
+[Tue May 26 12:30:24.870206 2020] [wsgi:error] [pid 29158] received my event: {'user_name': 'asdf', 'message': '\xeb\xa7\x88\xeb\xb9\xa0'}

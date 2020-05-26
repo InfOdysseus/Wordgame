@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>초성게임</title>
+        <link rel="stylesheet" href="{{ url_for('static', filename='css/home.css') }}" type="text/css"><!--{{ url_for('static', filename='css/home.css') }}-->
+    </head>
+
+    <body>
+        <h1>초성 게임</h1>
+        <img src="{{ url_for('static', filename='img/korean.jpg') }}"/> <br/>
+        <input type="button" value="이동" onclick="location.href='/game'" />
+    </body>
+</html>

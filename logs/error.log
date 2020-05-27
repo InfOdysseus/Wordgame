@@ -523,3 +523,74 @@
 [Tue May 26 12:30:03.458269 2020] [wsgi:error] [pid 29158] received my event: {'user_name': 'asdf', 'message': '\xed\x82\xa4\xeb\x8f\x84'}
 [Tue May 26 12:30:21.117883 2020] [wsgi:error] [pid 29158] received my event: {'data': 'User Connected'}
 [Tue May 26 12:30:24.870206 2020] [wsgi:error] [pid 29158] received my event: {'user_name': 'asdf', 'message': '\xeb\xa7\x88\xeb\xb9\xa0'}
+[Tue May 26 13:58:24.859081 2020] [wsgi:error] [pid 29158] received my event: {'data': 'User Connected'}
+[Wed May 27 00:00:28.201887 2020] [wsgi:error] [pid 34044] [client 192.168.35.245:49634] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.35.245/game
+[Wed May 27 00:00:30.231412 2020] [wsgi:error] [pid 58249] received my event: {'data': 'User Connected'}
+[Wed May 27 01:26:43.993664 2020] [wsgi:error] [pid 58249] received my event: {'data': 'User Connected'}
+[Wed May 27 01:26:49.690877 2020] [wsgi:error] [pid 58249] received my event: {'user_name': 'asdf', 'message': '\xec\xb0\xa9\xec\xa7\xb1'}
+[Wed May 27 01:42:09.342564 2020] [wsgi:error] [pid 58251] [client 192.168.35.245:57240] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.35.245/game
+[Wed May 27 01:52:21.671897 2020] [wsgi:error] [pid 63070] [client 192.168.35.245:60520] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.35.245/
+[Wed May 27 01:55:58.759231 2020] [wsgi:error] [pid 63808] [remote 192.168.35.245:33066] mod_wsgi (pid=63808): Failed to exec Python script file '/home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi'.
+[Wed May 27 01:55:58.759323 2020] [wsgi:error] [pid 63808] [remote 192.168.35.245:33066] mod_wsgi (pid=63808): Exception occurred processing WSGI script '/home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi'.
+[Wed May 27 01:55:58.759646 2020] [wsgi:error] [pid 63808] [remote 192.168.35.245:33066] Traceback (most recent call last):
+[Wed May 27 01:55:58.759728 2020] [wsgi:error] [pid 63808] [remote 192.168.35.245:33066]   File "/home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi", line 6, in <module>
+[Wed May 27 01:55:58.759736 2020] [wsgi:error] [pid 63808] [remote 192.168.35.245:33066]     from wordgameteam4 import app as application
+[Wed May 27 01:55:58.759746 2020] [wsgi:error] [pid 63808] [remote 192.168.35.245:33066]   File "/home/minsung/Program/apache2/wordgameteam4/__init__.py", line 4, in <module>
+[Wed May 27 01:55:58.759752 2020] [wsgi:error] [pid 63808] [remote 192.168.35.245:33066]     count = random.randint(5)
+[Wed May 27 01:55:58.759787 2020] [wsgi:error] [pid 63808] [remote 192.168.35.245:33066] TypeError: randint() missing 1 required positional argument: 'b'
+[Wed May 27 01:56:04.319805 2020] [wsgi:error] [pid 63808] [remote 192.168.35.245:33078] mod_wsgi (pid=63808): Failed to exec Python script file '/home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi'.
+[Wed May 27 01:56:04.319858 2020] [wsgi:error] [pid 63808] [remote 192.168.35.245:33078] mod_wsgi (pid=63808): Exception occurred processing WSGI script '/home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi'.
+[Wed May 27 01:56:04.319935 2020] [wsgi:error] [pid 63808] [remote 192.168.35.245:33078] Traceback (most recent call last):
+[Wed May 27 01:56:04.319965 2020] [wsgi:error] [pid 63808] [remote 192.168.35.245:33078]   File "/home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi", line 6, in <module>
+[Wed May 27 01:56:04.319971 2020] [wsgi:error] [pid 63808] [remote 192.168.35.245:33078]     from wordgameteam4 import app as application
+[Wed May 27 01:56:04.319980 2020] [wsgi:error] [pid 63808] [remote 192.168.35.245:33078]   File "/home/minsung/Program/apache2/wordgameteam4/__init__.py", line 4, in <module>
+[Wed May 27 01:56:04.319985 2020] [wsgi:error] [pid 63808] [remote 192.168.35.245:33078]     count = random.randint(5)
+[Wed May 27 01:56:04.320000 2020] [wsgi:error] [pid 63808] [remote 192.168.35.245:33078] TypeError: randint() missing 1 required positional argument: 'b'
+[Wed May 27 01:56:44.128141 2020] [wsgi:error] [pid 63889] received my event: {'data': 'User Connected'}
+[Wed May 27 01:56:47.931346 2020] [wsgi:error] [pid 63889] received my event: {'data': 'User Connected'}
+[Wed May 27 01:56:50.310389 2020] [wsgi:error] [pid 63889] received my event: {'data': 'User Connected'}
+[Wed May 27 01:56:51.275014 2020] [wsgi:error] [pid 63889] received my event: {'data': 'User Connected'}
+[Wed May 27 01:56:51.843184 2020] [wsgi:error] [pid 63889] received my event: {'data': 'User Connected'}
+[Wed May 27 01:56:52.004361 2020] [wsgi:error] [pid 63889] received my event: {'data': 'User Connected'}
+[Wed May 27 01:56:52.242009 2020] [wsgi:error] [pid 63889] received my event: {'data': 'User Connected'}
+[Wed May 27 01:56:52.386449 2020] [wsgi:error] [pid 63889] received my event: {'data': 'User Connected'}
+[Wed May 27 01:57:08.256885 2020] [wsgi:error] [pid 63889] received my event: {'data': 'User Connected'}
+[Wed May 27 02:00:40.924028 2020] [wsgi:error] [pid 63891] [client 192.168.35.245:33236] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.35.245/game
+[Wed May 27 02:00:40.924028 2020] [wsgi:error] [pid 63890] [client 192.168.35.245:33206] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.35.245/game
+[Wed May 27 02:00:41.826072 2020] [wsgi:error] [pid 63943] (2)No such file or directory: [client 192.168.35.245:34338] mod_wsgi (pid=63943): Unable to connect to WSGI daemon process 'wordgameteam4' on '/var/run/apache2/wsgi.929.11.1.sock' as user with uid=33., referer: http://192.168.35.245/game
+[Wed May 27 02:00:42.504264 2020] [wsgi:error] [pid 64320] received my event: {'data': 'User Connected'}
+[Wed May 27 02:00:43.509548 2020] [wsgi:error] [pid 64320] received my event: {'data': 'User Connected'}
+[Wed May 27 02:02:42.038080 2020] [wsgi:error] [pid 64477] [remote 192.168.35.245:34754] mod_wsgi (pid=64477): Failed to exec Python script file '/home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi'.
+[Wed May 27 02:02:42.038158 2020] [wsgi:error] [pid 64477] [remote 192.168.35.245:34754] mod_wsgi (pid=64477): Exception occurred processing WSGI script '/home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi'.
+[Wed May 27 02:02:42.038480 2020] [wsgi:error] [pid 64477] [remote 192.168.35.245:34754] Traceback (most recent call last):
+[Wed May 27 02:02:42.038525 2020] [wsgi:error] [pid 64477] [remote 192.168.35.245:34754]   File "/home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi", line 6, in <module>
+[Wed May 27 02:02:42.038532 2020] [wsgi:error] [pid 64477] [remote 192.168.35.245:34754]     from wordgameteam4 import app as application
+[Wed May 27 02:02:42.038539 2020] [wsgi:error] [pid 64477] [remote 192.168.35.245:34754]   File "/home/minsung/Program/apache2/wordgameteam4/__init__.py", line 6, in <module>
+[Wed May 27 02:02:42.038566 2020] [wsgi:error] [pid 64477] [remote 192.168.35.245:34754]     word = random.choice(wordParse) + random.choice(word) + random.choice(word)
+[Wed May 27 02:02:42.038607 2020] [wsgi:error] [pid 64477] [remote 192.168.35.245:34754] NameError: name 'word' is not defined
+[Wed May 27 02:25:39.538357 2020] [wsgi:error] [pid 66961] [client 192.168.35.245:38284] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.35.245/game?
+[Wed May 27 02:25:40.598398 2020] [wsgi:error] [pid 66964] (2)No such file or directory: [client 192.168.35.245:39886] mod_wsgi (pid=66964): Unable to connect to WSGI daemon process 'wordgameteam4' on '/var/run/apache2/wsgi.929.23.1.sock' as user with uid=33., referer: http://192.168.35.245/game?
+[Wed May 27 02:28:16.284117 2020] [wsgi:error] [pid 67174] [client 192.168.35.245:39900] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.35.245/game?
+[Wed May 27 02:28:51.753589 2020] [wsgi:error] [pid 67449] (2)No such file or directory: [client 192.168.35.245:40856] mod_wsgi (pid=67449): Unable to connect to WSGI daemon process 'wordgameteam4' on '/var/run/apache2/wsgi.929.25.1.sock' as user with uid=33., referer: http://192.168.35.245/game
+[Wed May 27 02:28:53.858373 2020] [wsgi:error] [pid 67450] [client 192.168.35.245:40854] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.35.245/game?
+[Wed May 27 02:29:33.696352 2020] [wsgi:error] [pid 67536] [client 192.168.35.245:40898] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.35.245/game?
+[Wed May 27 02:33:05.214505 2020] [wsgi:error] [pid 67672] [client 192.168.35.245:41322] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.35.245/
+[Wed May 27 02:33:05.238872 2020] [wsgi:error] [pid 67692] (2)No such file or directory: [client 192.168.35.245:41496] mod_wsgi (pid=67692): Unable to connect to WSGI daemon process 'wordgameteam4' on '/var/run/apache2/wsgi.929.27.1.sock' as user with uid=33., referer: http://192.168.35.245/
+[Wed May 27 02:33:11.251532 2020] [wsgi:error] [pid 67982] [client 192.168.35.245:41506] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.35.245/
+[Wed May 27 02:34:50.672123 2020] [wsgi:error] [pid 68010] [client 192.168.35.245:41522] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.35.245/
+[Wed May 27 02:35:21.042078 2020] [wsgi:error] [pid 68195] [client 192.168.35.245:42078] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.35.245/game
+[Wed May 27 02:35:23.567806 2020] [wsgi:error] [pid 68262] [remote 192.168.35.245:42158] Disconnected
+[Wed May 27 02:35:25.476067 2020] [wsgi:error] [pid 68262] [remote 192.168.35.245:42176] Disconnected
+[Wed May 27 02:36:21.662497 2020] [wsgi:error] [pid 68262] Disconnected
+[Wed May 27 02:36:27.700030 2020] [wsgi:error] [pid 68284] (2)No such file or directory: [client 192.168.35.245:42452] mod_wsgi (pid=68284): Unable to connect to WSGI daemon process 'wordgameteam4' on '/var/run/apache2/wsgi.929.31.1.sock' as user with uid=33.
+[Wed May 27 02:36:28.753928 2020] [wsgi:error] [pid 68265] [client 192.168.35.245:42450] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.35.245/game
+[Wed May 27 02:37:16.013581 2020] [wsgi:error] [pid 68370] [client 192.168.35.245:42468] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.35.245/game
+[Wed May 27 02:37:17.866834 2020] [wsgi:error] [pid 68450] [remote 192.168.35.245:42596] Disconnected
+[Wed May 27 02:38:16.474550 2020] [wsgi:error] [pid 68450] Disconnected
+[Wed May 27 02:38:23.803295 2020] [wsgi:error] [pid 68450] [remote 192.168.35.245:42612] Disconnected
+[Wed May 27 02:38:55.824288 2020] [wsgi:error] [pid 68454] [client 192.168.35.245:42712] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.35.245/game
+[Wed May 27 02:39:14.020083 2020] [wsgi:error] [pid 68658] [remote 192.168.35.245:42892] Disconnected
+[Wed May 27 05:12:02.894780 2020] [wsgi:error] [pid 68658] Disconnected
+[Wed May 27 11:08:02.202889 2020] [wsgi:error] [pid 68658] Disconnected
+[Wed May 27 11:08:32.234929 2020] [wsgi:error] [pid 68658] Disconnected
+[Wed May 27 16:21:56.047111 2020] [wsgi:error] [pid 112986] [remote 192.168.168.211:38660] Disconnected

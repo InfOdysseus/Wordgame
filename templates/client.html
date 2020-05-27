@@ -14,19 +14,18 @@
 </head>
 <body>
   <div class="randomdiv">
-    <h1 id="randomword">word</h1>
+    <h1 id="randomword">{{word}}</h1>
   </div>
-  
-  <h3 style='color: #ccc;font-size: 30px;'>No message yet..</h3>
-  <div class="message_holder"></div>
-
-  <form action="" method="POST">
-    <input type="text" class="username" placeholder="User Name"/>
-    <input type="text" class="message" placeholder="Messages"/>
-    <input type="submit"/>
-  </form>
   <h1>{{count}}</h1>
-
-  <script type="text/javascript" src="{{ url_for('static', filename='js/client.js') }}"></script>
+<div id="received">
+ 
+</div>
+ 
+<form id="broadcast" action="#">
+    <input id="input-data" type="text"/>
+    <input type="submit"/>
+</form>
+<script type="text/javascript" src="{{ url_for('static', filename='js/client.js') }}"></script>
+ 
 </body>
 </html>

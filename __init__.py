@@ -1,28 +1,51 @@
-from flask import Flask , render_template
-from flask_socketio import SocketIO, send
-count = 0
-rooms = {}
-
+from flask import Flask , render_template, session
+from flask_socketio import SocketIO, emit
+import random, os    
 app = Flask(__name__)
 app.config['SECRET_KEY'] = 'BCODE_Flask'
 socketio = SocketIO(app)
 
+wordParse = [ 'ㄱ', 'ㄲ', 'ㄴ', 'ㄷ', 'ㄸ', 'ㄹ', 'ㅁ', 'ㅂ', 'ㅃ', 'ㅅ', 'ㅆ', 'ㅇ', 'ㅈ', 'ㅉ', 'ㅊ', 'ㅋ', 'ㅌ', 'ㅍ', 'ㅎ' ]
+word = random.choice(wordParse) + random.choice(wordParse) 
+rooms = {}
+user_no = 1
+
+@app.before_request
+def before_request():
+    global user_no
+    if 'session' in session and 'user-id' in session:
+        pass
+    else:
+        session['session'] = os.urandom(24)
+        session['username'] = 'user'+str(user_no)
+        user_no += 1
+
+
 @app.route("/game")
 def main():
-    return render_template("client.html", count = count)
+    count = random.randint(0,5)
+    return render_template("client.html", count = count, word = word)
 
 @app.route("/home")
 def home():
     return render_template("home.html")
 
-def messageReceived(methods=['GET', 'POST']):
-    print('message was received!!!')
+@socketio.on('connect')
+def connect():
+    emit("response", {'data': 'Connected', 'username': session['username']})
 
-@socketio.on('my event')
-def handle_my_custom_event(json, methods=['GET', 'POST']):
-    print('received my event: ' + str(json))
-    socketio.emit('my response', json, callback=messageReceived)
+
+@socketio.on('disconnect')
+def disconnect():
+    session.clear()
+    print("Disconnected")
+
+@socketio.on("request")
+def request(message):
+    emit("response", {'data': message['data'], 'username': session['username']}, broadcast=True)
 
 if __name__ == '__main__':
     #socketio.run(app, host = "127.0.0.1", debug=True, port=5000)
     socketio.run(app)
+
+

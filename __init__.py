@@ -4,8 +4,7 @@ import random, os
 app = Flask(__name__)
 app.config['SECRET_KEY'] = 'BCODE_Flask'
 socketio = SocketIO(app)
-
-wordParse = [ 'ㄱ', 'ㄲ', 'ㄴ', 'ㄷ', 'ㄸ', 'ㄹ', 'ㅁ', 'ㅂ', 'ㅃ', 'ㅅ', 'ㅆ', 'ㅇ', 'ㅈ', 'ㅉ', 'ㅊ', 'ㅋ', 'ㅌ', 'ㅍ', 'ㅎ' ]
+wordParse = [ 'ㄱ', 'ㄴ', 'ㄷ', 'ㄹ', 'ㅁ', 'ㅂ', 'ㅅ', 'ㅇ', 'ㅈ' ]
 word = random.choice(wordParse) + random.choice(wordParse) 
 rooms = {}
 user_no = 1
@@ -15,16 +14,17 @@ def before_request():
     global user_no
     if 'session' in session and 'user-id' in session:
         pass
+
     else:
         session['session'] = os.urandom(24)
         session['username'] = 'user'+str(user_no)
-        user_no += 1
 
 
 @app.route("/game")
 def main():
-    count = random.randint(0,5)
-    return render_template("client.html", count = count, word = word)
+    global user_no
+    user_no += 1
+    return render_template("client.html", word = word)
 
 @app.route("/home")
 def home():
@@ -46,6 +46,6 @@ def request(message):
 
 if __name__ == '__main__':
     #socketio.run(app, host = "127.0.0.1", debug=True, port=5000)
-    socketio.run(app)
+    socketio.run(app, port = 8080)
 
 

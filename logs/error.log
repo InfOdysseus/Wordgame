@@ -594,3 +594,124 @@
 [Wed May 27 11:08:02.202889 2020] [wsgi:error] [pid 68658] Disconnected
 [Wed May 27 11:08:32.234929 2020] [wsgi:error] [pid 68658] Disconnected
 [Wed May 27 16:21:56.047111 2020] [wsgi:error] [pid 112986] [remote 192.168.168.211:38660] Disconnected
+[Wed May 27 16:27:29.975704 2020] [wsgi:error] [pid 112990] [client 192.168.168.211:38660] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.168.211/game
+[Wed May 27 16:27:31.526127 2020] [wsgi:error] [pid 113536] [remote 192.168.168.211:39490] Disconnected
+[Wed May 27 16:27:52.581757 2020] [wsgi:error] [pid 113536] [remote 192.168.168.211:39526] Disconnected
+[Wed May 27 16:28:28.699822 2020] [wsgi:error] [pid 113537] [client 192.168.168.211:39524] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.168.211/game
+[Wed May 27 16:28:37.238454 2020] [wsgi:error] [pid 113632] [remote 192.168.168.211:39728] Disconnected
+[Wed May 27 16:29:18.409706 2020] [wsgi:error] [pid 113632] Disconnected
+[Wed May 27 16:29:37.877484 2020] [wsgi:error] [pid 113632] [remote 192.168.168.211:39868] Disconnected
+[Wed May 27 16:29:41.701079 2020] [wsgi:error] [pid 113632] [remote 192.168.168.211:39884] Disconnected
+[Wed May 27 16:29:47.545499 2020] [wsgi:error] [pid 113632] [remote 192.168.168.211:39902] Disconnected
+[Wed May 27 16:30:12.511524 2020] [wsgi:error] [pid 113747] [client 192.168.168.211:40000] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.168.211/game
+[Wed May 27 16:30:12.511575 2020] [wsgi:error] [pid 113633] [client 192.168.168.211:39898] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.168.211/game
+[Wed May 27 16:30:12.511577 2020] [wsgi:error] [pid 113635] [client 192.168.168.211:39954] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.168.211/game
+[Wed May 27 16:30:15.449802 2020] [wsgi:error] [pid 113807] [remote 192.168.168.211:40030] Disconnected
+[Wed May 27 16:30:54.337604 2020] [wsgi:error] [pid 113807] Disconnected
+[Wed May 27 16:31:00.035206 2020] [wsgi:error] [pid 113807] [remote 192.168.168.211:40100] Disconnected
+[Wed May 27 16:31:02.535406 2020] [wsgi:error] [pid 113807] [remote 192.168.168.211:40110] Disconnected
+[Wed May 27 16:31:05.167506 2020] [wsgi:error] [pid 113807] [remote 192.168.168.211:40126] Disconnected
+[Wed May 27 16:31:40.164036 2020] [wsgi:error] [pid 113812] [client 192.168.168.211:40176] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.168.211/game
+[Wed May 27 16:31:40.164127 2020] [wsgi:error] [pid 113827] [client 192.168.168.211:40190] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.168.211/game
+[Wed May 27 16:31:40.164161 2020] [wsgi:error] [pid 113810] [client 192.168.168.211:40124] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.168.211/game
+[Wed May 27 16:31:43.647778 2020] [wsgi:error] [pid 113939] [remote 192.168.168.211:40264] Disconnected
+[Wed May 27 16:31:44.612373 2020] [wsgi:error] [pid 113939] [remote 192.168.168.211:40272] Disconnected
+[Wed May 27 16:31:46.189338 2020] [wsgi:error] [pid 113939] [remote 192.168.168.211:40274] Disconnected
+[Wed May 27 16:31:55.985104 2020] [wsgi:error] [pid 113939] [remote 192.168.168.211:40302] Disconnected
+[Wed May 27 16:31:58.704841 2020] [wsgi:error] [pid 113939] [remote 192.168.168.211:40310] Disconnected
+[Wed May 27 16:32:01.856024 2020] [wsgi:error] [pid 113939] [remote 192.168.168.211:40322] Disconnected
+[Wed May 27 16:34:21.342826 2020] [wsgi:error] [pid 113956] [client 192.168.168.211:41174] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.168.211/game
+[Wed May 27 16:34:21.342816 2020] [wsgi:error] [pid 113944] [client 192.168.168.211:40938] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.168.211/game
+[Wed May 27 16:34:21.342816 2020] [wsgi:error] [pid 113955] [client 192.168.168.211:40322] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.168.211/game
+[Wed May 27 16:34:25.125403 2020] [wsgi:error] [pid 114329] [remote 192.168.168.211:41472] Disconnected
+[Wed May 27 16:34:27.042033 2020] [wsgi:error] [pid 114329] [remote 192.168.168.211:41472] Disconnected
+[Wed May 27 16:34:28.581393 2020] [wsgi:error] [pid 114329] [remote 192.168.168.211:41474] Disconnected
+[Wed May 27 16:35:07.172593 2020] [wsgi:error] [pid 114329] [remote 192.168.168.211:41582] Disconnected
+[Wed May 27 16:35:22.729197 2020] [wsgi:error] [pid 114329] Disconnected
+[Wed May 27 16:35:52.740676 2020] [wsgi:error] [pid 114329] Disconnected
+[Wed May 27 16:38:31.614886 2020] [wsgi:error] [pid 114534] [remote 192.168.168.211:42132] Disconnected
+[Wed May 27 16:38:32.834374 2020] [wsgi:error] [pid 114534] [remote 192.168.168.211:42148] Disconnected
+[Wed May 27 16:38:33.947194 2020] [wsgi:error] [pid 114534] [remote 192.168.168.211:42150] Disconnected
+[Wed May 27 16:38:42.951456 2020] [wsgi:error] [pid 114539] [client 192.168.168.211:42132] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.168.211/game
+[Wed May 27 16:38:42.951477 2020] [wsgi:error] [pid 114549] [client 192.168.168.211:42146] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.168.211/game
+[Wed May 27 16:38:42.951495 2020] [wsgi:error] [pid 114556] [client 192.168.168.211:42148] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.168.211/game
+[Wed May 27 16:38:45.908848 2020] [wsgi:error] [pid 114751] [remote 192.168.168.211:42186] Disconnected
+[Wed May 27 16:39:33.723283 2020] [wsgi:error] [pid 114753] [client 192.168.168.211:42164] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.168.211/game
+[Wed May 27 16:39:33.723273 2020] [wsgi:error] [pid 114752] [client 192.168.168.211:42180] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.168.211/game
+[Wed May 27 16:39:33.723273 2020] [wsgi:error] [pid 114766] [client 192.168.168.211:42186] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.168.211/game
+[Wed May 27 16:40:34.644354 2020] [wsgi:error] [pid 114937] [client 192.168.168.211:42304] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.168.211/game
+[Wed May 27 16:40:34.644349 2020] [wsgi:error] [pid 114935] [client 192.168.168.211:42290] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.168.211/game
+[Wed May 27 16:40:34.644369 2020] [wsgi:error] [pid 114934] [client 192.168.168.211:42306] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.168.211/game
+[Wed May 27 16:41:08.402779 2020] [wsgi:error] [pid 115044] [client 192.168.168.211:42440] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.168.211/game
+[Wed May 27 16:41:08.402779 2020] [wsgi:error] [pid 115046] [client 192.168.168.211:42446] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.168.211/game
+[Wed May 27 16:41:08.402816 2020] [wsgi:error] [pid 115043] [client 192.168.168.211:42460] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.168.211/game
+[Wed May 27 16:41:13.865546 2020] [wsgi:error] [pid 115130] [remote 192.168.168.211:42556] Disconnected
+[Wed May 27 16:41:15.208353 2020] [wsgi:error] [pid 115130] [remote 192.168.168.211:42556] Disconnected
+[Wed May 27 16:41:16.557783 2020] [wsgi:error] [pid 115130] [remote 192.168.168.211:42566] Disconnected
+[Wed May 27 16:41:26.874332 2020] [wsgi:error] [pid 115130] [remote 192.168.168.211:42588] Disconnected
+[Wed May 27 16:42:08.991900 2020] [wsgi:error] [pid 115130] Disconnected
+[Wed May 27 16:42:26.076244 2020] [wsgi:error] [pid 115130] [remote 192.168.168.211:42556] Disconnected
+[Wed May 27 16:42:26.077869 2020] [wsgi:error] [pid 115130] [remote 192.168.168.211:42554] Disconnected
+[Fri May 29 15:12:22.815573 2020] [wsgi:error] [pid 48616] [client 192.168.35.245:50556] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.35.245/game
+[Fri May 29 15:12:48.405553 2020] [wsgi:error] [pid 48831] [remote 192.168.35.245:50698] Disconnected
+[Fri May 29 15:14:50.292013 2020] [wsgi:error] [pid 48831] [remote 192.168.35.245:50870] Disconnected
+[Fri May 29 15:15:17.496281 2020] [wsgi:error] [pid 48831] [remote 192.168.35.245:50918] Disconnected
+[Fri May 29 15:15:53.779068 2020] [wsgi:error] [pid 48831] Disconnected
+[Fri May 29 15:25:01.105592 2020] [wsgi:error] [pid 48835] [client 192.168.35.245:51536] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.35.245/game
+[Fri May 29 15:25:28.461807 2020] [wsgi:error] [pid 49876] [remote 192.168.35.245:52434] Disconnected
+[Fri May 29 15:25:31.735830 2020] [wsgi:error] [pid 49876] [remote 192.168.35.245:52430] Disconnected
+[Fri May 29 15:26:01.681582 2020] [wsgi:error] [pid 49876] Disconnected
+[Fri May 29 15:28:52.932315 2020] [wsgi:error] [pid 50166] [remote 192.168.35.245:53120] [2020-05-29 15:28:52,930] ERROR in app: Exception on /game [GET]
+[Fri May 29 15:28:52.932388 2020] [wsgi:error] [pid 50166] [remote 192.168.35.245:53120] Traceback (most recent call last):
+[Fri May 29 15:28:52.932408 2020] [wsgi:error] [pid 50166] [remote 192.168.35.245:53120]   File "/home/minsung/Program/python/venv/flask/lib/python3.7/site-packages/flask/app.py", line 2447, in wsgi_app
+[Fri May 29 15:28:52.932419 2020] [wsgi:error] [pid 50166] [remote 192.168.35.245:53120]     response = self.full_dispatch_request()
+[Fri May 29 15:28:52.932429 2020] [wsgi:error] [pid 50166] [remote 192.168.35.245:53120]   File "/home/minsung/Program/python/venv/flask/lib/python3.7/site-packages/flask/app.py", line 1952, in full_dispatch_request
+[Fri May 29 15:28:52.932439 2020] [wsgi:error] [pid 50166] [remote 192.168.35.245:53120]     rv = self.handle_user_exception(e)
+[Fri May 29 15:28:52.932449 2020] [wsgi:error] [pid 50166] [remote 192.168.35.245:53120]   File "/home/minsung/Program/python/venv/flask/lib/python3.7/site-packages/flask/app.py", line 1821, in handle_user_exception
+[Fri May 29 15:28:52.932460 2020] [wsgi:error] [pid 50166] [remote 192.168.35.245:53120]     reraise(exc_type, exc_value, tb)
+[Fri May 29 15:28:52.932470 2020] [wsgi:error] [pid 50166] [remote 192.168.35.245:53120]   File "/home/minsung/Program/python/venv/flask/lib/python3.7/site-packages/flask/_compat.py", line 39, in reraise
+[Fri May 29 15:28:52.932499 2020] [wsgi:error] [pid 50166] [remote 192.168.35.245:53120]     raise value
+[Fri May 29 15:28:52.932516 2020] [wsgi:error] [pid 50166] [remote 192.168.35.245:53120]   File "/home/minsung/Program/python/venv/flask/lib/python3.7/site-packages/flask/app.py", line 1950, in full_dispatch_request
+[Fri May 29 15:28:52.932527 2020] [wsgi:error] [pid 50166] [remote 192.168.35.245:53120]     rv = self.dispatch_request()
+[Fri May 29 15:28:52.932536 2020] [wsgi:error] [pid 50166] [remote 192.168.35.245:53120]   File "/home/minsung/Program/python/venv/flask/lib/python3.7/site-packages/flask/app.py", line 1936, in dispatch_request
+[Fri May 29 15:28:52.932559 2020] [wsgi:error] [pid 50166] [remote 192.168.35.245:53120]     return self.view_functions[rule.endpoint](**req.view_args)
+[Fri May 29 15:28:52.932578 2020] [wsgi:error] [pid 50166] [remote 192.168.35.245:53120]   File "/home/minsung/Program/apache2/wordgameteam4/__init__.py", line 25, in main
+[Fri May 29 15:28:52.932594 2020] [wsgi:error] [pid 50166] [remote 192.168.35.245:53120]     user_no += 1
+[Fri May 29 15:28:52.932632 2020] [wsgi:error] [pid 50166] [remote 192.168.35.245:53120] UnboundLocalError: local variable 'user_no' referenced before assignment
+[Fri May 29 15:30:58.366248 2020] [wsgi:error] [pid 50239] [client 192.168.35.245:53250] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.35.245/game
+[Fri May 29 15:30:58.366282 2020] [wsgi:error] [pid 50238] [client 192.168.35.245:53212] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.35.245/game
+[Fri May 29 15:31:16.169322 2020] [wsgi:error] [pid 50472] [client 192.168.35.245:53388] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.35.245/game
+[Fri May 29 15:31:16.169357 2020] [wsgi:error] [pid 50469] [client 192.168.35.245:53384] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.35.245/game
+[Fri May 29 15:31:16.169357 2020] [wsgi:error] [pid 50470] [client 192.168.35.245:53380] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.35.245/game
+[Fri May 29 15:32:16.694152 2020] [wsgi:error] [pid 50533] Disconnected
+[Fri May 29 15:35:35.825716 2020] [wsgi:error] [pid 50533] [remote 192.168.35.245:54264] Disconnected
+[Fri May 29 15:35:43.147881 2020] [wsgi:error] [pid 50535] [client 192.168.35.245:54262] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.35.245/game
+[Fri May 29 15:35:43.147951 2020] [wsgi:error] [pid 50534] [client 192.168.35.245:53414] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.35.245/game
+[Fri May 29 15:35:45.764787 2020] [wsgi:error] [pid 50953] [remote 192.168.35.245:54292] Disconnected
+[Fri May 29 15:35:50.693167 2020] [wsgi:error] [pid 50953] [remote 192.168.35.245:54292] Disconnected
+[Fri May 29 15:35:52.733489 2020] [wsgi:error] [pid 50953] [remote 192.168.35.245:54300] Disconnected
+[Fri May 29 15:36:06.224523 2020] [wsgi:error] [pid 50953] [remote 192.168.35.245:54340] Disconnected
+[Fri May 29 15:37:03.302831 2020] [wsgi:error] [pid 50957] [client 192.168.35.245:54292] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.35.245/game
+[Fri May 29 15:37:24.180602 2020] [wsgi:error] [pid 51075] [remote 192.168.35.245:54808] Disconnected
+[Fri May 29 15:38:03.814656 2020] [wsgi:error] [pid 51075] Disconnected
+[Fri May 29 15:38:26.356520 2020] [wsgi:error] [pid 51076] [client 192.168.35.245:54762] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.35.245/game
+[Fri May 29 15:38:40.172658 2020] [wsgi:error] [pid 51195] [remote 192.168.35.245:55394] Disconnected
+[Fri May 29 15:38:43.356147 2020] [wsgi:error] [pid 51195] [remote 192.168.35.245:55388] Disconnected
+[Fri May 29 15:39:08.691639 2020] [wsgi:error] [pid 51256] [remote 192.168.35.245:55452] Disconnected
+[Fri May 29 15:45:01.537182 2020] [wsgi:error] [pid 51257] [client 192.168.35.245:55430] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.35.245/game
+[Fri May 29 15:46:24.156896 2020] [wsgi:error] [pid 52078] [remote 192.168.35.245:57340] Disconnected
+[Sat May 30 00:00:12.563528 2020] [wsgi:error] [pid 52083] [client 192.168.35.245:40046] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.35.245/game
+[Sat May 30 18:11:57.085761 2020] [wsgi:error] [pid 71946] [remote 192.168.35.245:42664] Disconnected
+[Sun May 31 00:00:40.786213 2020] [wsgi:error] [pid 71949] [client 192.168.35.245:43370] Truncated or oversized response headers received from daemon process 'wordgameteam4': /home/minsung/Program/apache2/wordgameteam4/wordgameteam4.wsgi, referer: http://192.168.35.245/game
+[Sun May 31 00:45:58.037459 2020] [wsgi:error] [pid 135320] [remote 192.168.35.245:47346] Disconnected
+[Sun May 31 00:46:21.134879 2020] [wsgi:error] [pid 135320] [remote 192.168.35.245:47254] Disconnected
+[Sun May 31 19:31:58.526384 2020] [wsgi:error] [pid 917] [remote 192.168.35.245:56226] Disconnected
+[Sun May 31 19:32:20.314949 2020] [wsgi:error] [pid 917] [remote 192.168.35.245:56242] Disconnected
+[Sun May 31 19:32:50.409934 2020] [wsgi:error] [pid 917] Disconnected
+[Sun May 31 19:33:20.441352 2020] [wsgi:error] [pid 917] Disconnected
+[Sun May 31 19:34:00.639071 2020] [wsgi:error] [pid 917] [remote 192.168.35.245:56280] Disconnected
+[Sun May 31 19:34:50.528850 2020] [wsgi:error] [pid 917] Disconnected
+[Sun May 31 19:49:20.058472 2020] [wsgi:error] [pid 24401] [remote 192.168.35.245:58598] Disconnected
+[Sun May 31 19:50:15.207037 2020] [wsgi:error] [pid 24401] Disconnected
+[Tue Jun 02 10:55:15.903450 2020] [wsgi:error] [pid 34836] Disconnected
+[Tue Jun 02 10:57:24.907975 2020] [wsgi:error] [pid 35399] [remote 192.168.35.245:55016] Disconnected

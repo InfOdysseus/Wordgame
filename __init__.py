@@ -35,10 +35,13 @@ def connect():
     emit("response", {'data': 'Connected', 'username': session['username']})
 
 
-@socketio.on('disconnect')
-def disconnect():
-    session.clear()
-    print("Disconnected")
+@socketio.on('change')
+def change():
+    global word
+    word = random.choice(wordParse) + random.choice(wordParse)
+    emit("word", {'word': word}, broadcast=True)
+
+    
 
 @socketio.on("request")
 def request(message):
